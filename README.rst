@@ -112,7 +112,7 @@ Wednesday
 .. _monAM0paeV: https://www.youtube.com/watch?v=QFIOE1jKv30
 
 .. |monAM2flg| replace:: C++ Mixins: Customization Through Compile Time Composition, *Odin Holmes*
-.. _monAM2flg: 050-gmai7-2018_monday/talk_title__author__cppnow_05072018.md
+.. _monAM2flg: 05-07-2018_monday/talk_title__author__cppnow_05072018.md
 .. |monAM2flgV| replace:: (video)
 .. _monAM2flgV: https://youtu.be/wWZi_wPyVvs
 .. |monAM2hud| replace:: A Quantum Data Structure for Classical Computers, *Charles Bay*
