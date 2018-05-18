@@ -112,23 +112,23 @@ Wednesday
 .. _monAM0paeV: https://www.youtube.com/watch?v=QFIOE1jKv30
 
 .. |monAM2flg| replace:: C++ Mixins: Customization Through Compile Time Composition, *Odin Holmes*
-.. _monAM2flg: 05-07-2018_monday/TALK_TITLE__AUTHOR__cppnow_05-07-2018.md
+.. _monAM2flg: 050-gmai7-2018_monday/TALK_TITLE__AUTHOR__cppnow_05-07-2018.md
 .. |monAM2flgV| replace:: (video)
-.. _monAM2flgV: 
+.. _monAM2flgV: https://youtu.be/wWZi_wPyVvs
 .. |monAM2hud| replace:: A Quantum Data Structure for Classical Computers, *Charles Bay*
-.. _monAM2hud: 05-07-2018_monday/TALK_TITLE__AUTHOR__cppnow_05-07-2018.md
+.. _monAM2hud: 05-07-2018_monday/a_quantum_data_structure_for_classical_computers__charley_bay__cppnow_2018__05_07_2018.pdf
 .. |monAM2hudV| replace:: (video)
-.. _monAM2hudV: 
+.. _monAM2hudV: https://youtu.be/Y2K82EVGxaI
 .. |monAM2bet| replace:: Fast Conversion from UTF-8 with C++, DFAs, and SSE Intrinsics
 .. _monAM2bet: 05-07-2018_monday/Fast_Conversion_From_UTF-8_with_C++,_DFAs,_and_SSE_Intrinsics__Bob_Steagall__cppnow_05-07-2018.pdf
 .. |monAM2betV| replace:: (video)
-.. _monAM2betV: 
+.. _monAM2betV: https://youtu.be/h5oczBeib_M
 
 
 .. |monPM0flg| replace:: An Allocator is a Handle to a Heap, *Arthur O'Dwyer*
 .. _monPM0flg: 05-07-2018_monday/An_Allocator_is_a_Handle_to_a_Heap__Arthur_O'Dywer__cppnow_05-07-2018.pdf
 .. |monPM0flgV| replace:: (video)
-.. _monPM0flgV: 
+.. _monPM0flgV: https://youtu.be/0MdSJsCTRkY
 .. |monPM0hud| replace:: Generalized FUll Duplex Messaging, *Jason Rice*
 .. _monPM0hud: 05-07-2018_monday/Generalized_Full_Duplex_Messaging__Jason_Rice__cppnow_05-07-2018.pdf
 .. |monPM0hudV| replace:: (video)
