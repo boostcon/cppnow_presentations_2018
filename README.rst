@@ -206,7 +206,7 @@ Wednesday
 .. _tuePM2flg: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
 .. |tuePM2flgV| replace:: (video)
 .. _tuePM2flgV: 
-.. |tuePM2hud| replace:: Generative Programming in Actions: Emulating the 3DS, *Tony Wasserka*
+.. |tuePM2hud| replace:: Generative Programming & Declarative Interfaces: Emulating the Nintendo 3DS, *Tony Wasserka*
 .. _tuePM2hud: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
 .. |tuePM2hudV| replace:: (video)
 .. _tuePM2hudV: 
