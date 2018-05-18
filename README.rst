@@ -51,7 +51,7 @@ Wednesday, May 09
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (9:00-10:30)  | |wedAM0flg|_ |wedAM0flgV|_ | |wedAM0hud|_ |wedAM0hudV|_ | |wedAM0bet|  |wedAM0betV|_ |
+| Morning (9:00-10:30)  | |wedAM0flg|_ |wedAM0flgV|_ | |wedAM0hud|_ |wedAM0hudV|_ | |wedAM0bet|_  |wedAM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Morning (11:00-12:30) | |wedAM2flg|_ |wedAM2flgV|_ | |wedAM2hud|_ |wedAM2hudV|_ | |wedAM2bet|_ |wedAM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
@@ -102,6 +102,7 @@ Wednesday
 .. .. _tagV: http://link.com/to/video
 
 .. Monday, May 07
+
 .. |monAM0pae| replace:: Opening Keynote: The Shape of a Program, *Lisa Lippincott*
 .. _monAM0pae: 05-07-2018_monday/TALK_TITLE__AUTHOR__cppnow_05-07-2018.md
 .. |monAM0paeV| replace:: (video)
@@ -147,7 +148,9 @@ Wednesday
 .. |monPM2betV| replace:: (video)
 .. _monPM2betV: 
 
+
 .. Tuesday, May 08
+
 .. |tueAM0flg| replace:: Fancy Pointers for Fun and Profit, *Bob Steagall*
 .. _tueAM0flg: 05-08-2018_tuesday/Fancy_Pointers_for_Fun_and_Profit__Bob_Steagall__cppnow_05-08-2018.pdf
 .. |tueAM0flgV| replace:: (video)
@@ -157,7 +160,7 @@ Wednesday
 .. |tueAM0hudV| replace:: (video)
 .. _tueAM0hudV: 
 .. |tueAM0bet| replace:: The Continuing Saga of the Lock-Free Queue: Part 3 of N, *Tony Van Eerd*
-.. _tueAM2bet: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tueAM0bet: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
 .. |tueAM0betV| replace:: (video)
 .. _tueAM0betV: 
 
@@ -211,6 +214,7 @@ Wednesday
  
 
 .. Wednesday, May 09
+
 .. |wedAM0flg| replace:: If I Had My 'Druthers: A Proposal for Improving the Containers in C++, *Bob Steagall*
 .. _wedAM0flg: 05-09-2018_wednesday/If_I_Had_My_'Druthers_-_Some_Thoughts_on_Improving_the_Containers_in_C++2x__Bob_Steagall__cppnow_05-09-2018.pdf
 .. |wedAM0flgV| replace:: (video)
@@ -219,7 +223,7 @@ Wednesday
 .. _wedAM0hud: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
 .. |wedAM0hudV| replace:: (video)
 .. _wedAM0hudV: 
-.. |wedAM0bet| replace:: Game Engine API Design,  *Allan Deustch*
+.. |wedAM0bet| replace:: Game Engine API Design, *Allan Deustch*
 .. _wedAM0bet: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
 .. |wedAM0betV| replace:: (video)
 .. _wedAM0betV: 
@@ -326,7 +330,9 @@ Wednesday
 .. |thuPM2betV| replace:: (video)
 .. _thuPM2betV:   
 
+
 .. Friday, May 11
+
 .. |friAM0pae| replace:: Closing Keynote: Undefined Behavior and Compiler Optimizations, *John Regher*
 .. _friAM0pae: 05-11-2018_friday/TALK_TITLE__AUTHOR__cppnow_05-11-2018.md
 .. |friAM0paeV| replace:: (video)
