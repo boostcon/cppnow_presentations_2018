@@ -107,47 +107,47 @@ Wednesday
 .. Monday, May 07
 
 .. |monAM0pae| replace:: Opening Keynote: The Shape of a Program, *Lisa Lippincott*
-.. _monAM0pae: 05-07-2018_monday/TALK_TITLE__AUTHOR__cppnow_05-07-2018.md
+.. _monAM0pae: 05-07-2018_monday/talk_title__author__cppnow_05-07-2018.md
 .. |monAM0paeV| replace:: (video)
 .. _monAM0paeV: https://www.youtube.com/watch?v=QFIOE1jKv30
 
 .. |monAM2flg| replace:: C++ Mixins: Customization Through Compile Time Composition, *Odin Holmes*
-.. _monAM2flg: 050-gmai7-2018_monday/TALK_TITLE__AUTHOR__cppnow_05-07-2018.md
+.. _monAM2flg: 050-gmai7-2018_monday/talk_title__author__cppnow_05-07-2018.md
 .. |monAM2flgV| replace:: (video)
 .. _monAM2flgV: https://youtu.be/wWZi_wPyVvs
 .. |monAM2hud| replace:: A Quantum Data Structure for Classical Computers, *Charles Bay*
-.. _monAM2hud: 05-07-2018_monday/a_quantum_data_structure_for_classical_computers__charley_bay__cppnow_2018__05_07_2018.pdf
+.. _monAM2hud: 05-07-2018_monday/a_quantum_data_structure_for_classical_computers__charley_bay__cppnow_2018__05072018.pdf
 .. |monAM2hudV| replace:: (video)
 .. _monAM2hudV: https://youtu.be/Y2K82EVGxaI
 .. |monAM2bet| replace:: Fast Conversion from UTF-8 with C++, DFAs, and SSE Intrinsics
-.. _monAM2bet: 05-07-2018_monday/Fast_Conversion_From_UTF-8_with_C++,_DFAs,_and_SSE_Intrinsics__Bob_Steagall__cppnow_05-07-2018.pdf
+.. _monAM2bet: 05-07-2018_monday/fast_conversion_from_utf8_with_cpp_dfas_and_sse_intrinsics__bob_steagall__cppnow_05072018.pdf
 .. |monAM2betV| replace:: (video)
 .. _monAM2betV: https://youtu.be/h5oczBeib_M
 
 
 .. |monPM0flg| replace:: An Allocator is a Handle to a Heap, *Arthur O'Dwyer*
-.. _monPM0flg: 05-07-2018_monday/An_Allocator_is_a_Handle_to_a_Heap__Arthur_O'Dywer__cppnow_05-07-2018.pdf
+.. _monPM0flg: 05-07-2018_monday/an_allocator_is_a_handle_to_a_heap__arthur_o_dywer__cppnow_05072018.pdf
 .. |monPM0flgV| replace:: (video)
 .. _monPM0flgV: https://youtu.be/0MdSJsCTRkY
 .. |monPM0hud| replace:: Generalized FUll Duplex Messaging, *Jason Rice*
-.. _monPM0hud: 05-07-2018_monday/Generalized_Full_Duplex_Messaging__Jason_Rice__cppnow_05-07-2018.pdf
+.. _monPM0hud: 05-07-2018_monday/generalized_full_duplex_messaging__jason_rice__cppnow_05072018.pdf
 .. |monPM0hudV| replace:: (video)
 .. _monPM0hudV: 
 .. |monPM0bet| replace:: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1 of 2)
-.. _monPM0bet: 05-07-2018_monday/TALK_TITLE__AUTHOR__cppnow_05-07-2018.md
+.. _monPM0bet: 05-07-2018_monday/talk_title__author__cppnow_05-07-2018.md
 .. |monPM0betV| replace:: (video)
 .. _monPM0betV: 
 
 .. |monPM2flg| replace:: C++17's std::pmr Comes With a Cost
-.. _monPM2flg: 05-07-2018_monday/TALK_TITLE__AUTHOR__cppnow_05-07-2018.md
+.. _monPM2flg: 05-07-2018_monday/talk_title__author__cppnow_05-07-2018.md
 .. |monPM2flgV| replace:: (video)
 .. _monPM2flgV: 
 .. |monPM2hud| replace:: Beyond C++17, *Mateusz Pusz*
-.. _monPM2hud: 05-07-2018_monday/TALK_TITLE__AUTHOR__cppnow_05-07-2018.md
+.. _monPM2hud: 05-07-2018_monday/talk_title__author__cppnow_05-07-2018.md
 .. |monPM2hudV| replace:: (video)
 .. _monPM2hudV: 
 .. |monPM2bet| replace:: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2 of 2)
-.. _monPM2bet: 05-07-2018_monday/TALK_TITLE__AUTHOR__cppnow_05-07-2018.md
+.. _monPM2bet: 05-07-2018_monday/talk_title__author__cppnow_05-07-2018.md
 .. |monPM2betV| replace:: (video)
 .. _monPM2betV: 
 
@@ -155,63 +155,63 @@ Wednesday
 .. Tuesday, May 08
 
 .. |tueAM0flg| replace:: Fancy Pointers for Fun and Profit, *Bob Steagall*
-.. _tueAM0flg: 05-08-2018_tuesday/Fancy_Pointers_for_Fun_and_Profit__Bob_Steagall__cppnow_05-08-2018.pdf
+.. _tueAM0flg: 05-08-2018_tuesday/fancy_pointers_for_fun_and_profit__bob_steagall__cppnow_05082018.pdf
 .. |tueAM0flgV| replace:: (video)
 .. _tueAM0flgV: 
 .. |tueAM0hud| replace:: The Best Type Traits C++ Doesn't Have, *Arthur O'Dwyer*
-.. _tueAM0hud: 05-08-2018_tuesday/The_Best_Type_Traits__Arthur_O'Dwyer__cppnow_05-08-2018.pdf
+.. _tueAM0hud: 05-08-2018_tuesday/the_best_type_traits__arthur_o_dwyer__cppnow_05082018.pdf
 .. |tueAM0hudV| replace:: (video)
 .. _tueAM0hudV: 
 .. |tueAM0bet| replace:: The Continuing Saga of the Lock-Free Queue: Part 3 of N, *Tony Van Eerd*
-.. _tueAM0bet: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tueAM0bet: 05-08-2018_tuesday/talk_title__author__cppnow_05-08-2018.md
 .. |tueAM0betV| replace:: (video)
 .. _tueAM0betV: 
 
 .. |tueAM2flg| replace:: Git, CMake, Conan: How to Ship and Reuse our C++ Projects, *Mateusz Pusz*
-.. _tueAM2flg: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tueAM2flg: 05-08-2018_tuesday/talk_title__author__cppnow_05-08-2018.md
 .. |tueAM2flgV| replace:: (video)
 .. _tueAM2flgV: 
 .. |tueAM2hud| replace:: The Untapped Potential of Software Visualization, *Eberhard Gräther*
-.. _tueAM2hud: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tueAM2hud: 05-08-2018_tuesday/talk_title__author__cppnow_05-08-2018.md
 .. |tueAM2hudV| replace:: (video)
 .. _tueAM2hudV: 
 .. |tueAM2bet| replace:: Boost.TMP: Your DSL for Metaprogramming, *Odin Holmes*
-.. _tueAM2bet: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tueAM2bet: 05-08-2018_tuesday/talk_title__author__cppnow_05-08-2018.md
 .. |tueAM2betV| replace:: (video)
 .. _tueAM2betV: 
 
 .. |tueAM3flg| replace:: Docker Based C++ Dependency and Build Management, *Jason Rice*
-.. _tueAM3flg: 05-08-2018_tuesday/cppdock_-_Docker_Based_Cpp_Dependency_and_Build_Management__Jason_Rice__cppnow_05-08-2018.pdf
+.. _tueAM3flg: 05-08-2018_tuesday/cppdock__docker_based_cpp_dependency_and_build_management__jason_rice__cppnow_05082018.pdf
 .. |tueAM3flgV| replace:: (video)
 .. _tueAM3flgV: 
 .. |tueAM3hud| replace:: Fortransformers: A Field Study, *Tobias Loew*
-.. _tueAM3hud: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tueAM3hud: 05-08-2018_tuesday/talk_title__author__cppnow_05-08-2018.md
 .. |tueAM3hudV| replace:: (video)
 .. _tueAM3hudV: 
 
 .. |tuePM0flg| replace:: Futures without Type Erasure, *Vittorio Romeo*
-.. _tuePM0flg: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tuePM0flg: 05-08-2018_tuesday/talk_title__author__cppnow_05-08-2018.md
 .. |tuePM0flgV| replace:: (video)
 .. _tuePM0flgV: 
 .. |tuePM0hud| replace:: The Julia Language and C++: The Perfect Marriage? *Keno Discher, Bart Janssens*
-.. _tuePM0hud: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tuePM0hud: 05-08-2018_tuesday/talk_title__author__cppnow_05-08-2018.md
 .. |tuePM0hudV| replace:: (video)
 .. _tuePM0hudV: 
 .. |tuePM0bet| replace:: Smart Output Iterators, *Jonathan Boccara*
-.. _tuePM0bet: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tuePM0bet: 05-08-2018_tuesday/talk_title__author__cppnow_05-08-2018.md
 .. |tuePM0betV| replace:: (video)
 .. _tuePM0betV: 
 
 .. |tuePM2flg| replace:: Moving Faster: Everyday Efficiency in Modern C++, *Alan Talbot*
-.. _tuePM2flg: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tuePM2flg: 05-08-2018_tuesday/talk_title__author__cppnow_05-08-2018.md
 .. |tuePM2flgV| replace:: (video)
 .. _tuePM2flgV: 
 .. |tuePM2hud| replace:: Generative Programming & Declarative Interfaces: Emulating the Nintendo 3DS, *Tony Wasserka*
-.. _tuePM2hud: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tuePM2hud: 05-08-2018_tuesday/talk_title__author__cppnow_05-08-2018.md
 .. |tuePM2hudV| replace:: (video)
 .. _tuePM2hudV: 
 .. |tuePM2bet| replace:: What Else has My Compiler Done for Me Lately? *Matt Godbolt*
-.. _tuePM2bet: 05-08-2018_tuesday/TALK_TITLE__AUTHOR__cppnow_05-08-2018.md
+.. _tuePM2bet: 05-08-2018_tuesday/talk_title__author__cppnow_05-08-2018.md
 .. |tuePM2betV| replace:: (video)
 .. _tuePM2betV: 
  
@@ -219,117 +219,117 @@ Wednesday
 .. Wednesday, May 09
 
 .. |wedAM0flg| replace:: If I Had My 'Druthers: A Proposal for Improving the Containers in C++, *Bob Steagall*
-.. _wedAM0flg: 05-09-2018_wednesday/If_I_Had_My_'Druthers_-_Some_Thoughts_on_Improving_the_Containers_in_C++2x__Bob_Steagall__cppnow_05-09-2018.pdf
+.. _wedAM0flg: 05-09-2018_wednesday/if_i_had_my__druthers__some_thoughts_on_improving_the_containers_in_cpp2x__bob_steagall__cppnow_05092018.pdf
 .. |wedAM0flgV| replace:: (video)
 .. _wedAM0flgV: 
 .. |wedAM0hud| replace:: Words of Wisdom, *Tony Van Eerd*
-.. _wedAM0hud: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
+.. _wedAM0hud: 05-09-2018_wednesday/talk_title__author__cppnow_05-09-2018.md
 .. |wedAM0hudV| replace:: (video)
 .. _wedAM0hudV: 
 .. |wedAM0bet| replace:: Game Engine API Design, *Allan Deustch*
-.. _wedAM0bet: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
+.. _wedAM0bet: 05-09-2018_wednesday/talk_title__author__cppnow_05-09-2018.md
 .. |wedAM0betV| replace:: (video)
 .. _wedAM0betV: 
 
 .. |wedAM2flg| replace:: Rethinking Pointers, *Jonathan Müller*
-.. _wedAM2flg: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
+.. _wedAM2flg: 05-09-2018_wednesday/talk_title__author__cppnow_05-09-2018.md
 .. |wedAM2flgV| replace:: (video)
 .. _wedAM2flgV: 
 .. |wedAM2hud| replace:: Design and Implementation of DBMS Asynchronous Client Library with C++17, Boost.Hana and Boost.Asio, *Roman Siromakha*
-.. _wedAM2hud: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
+.. _wedAM2hud: 05-09-2018_wednesday/talk_title__author__cppnow_05-09-2018.md
 .. |wedAM2hudV| replace:: (video)
 .. _wedAM2hudV: 
 .. |wedAM2bet| replace:: You Can Do Better than std::unordered_map: New and Recent IMprovements to Hash Table Performance, *Malte Skarupke*
-.. _wedAM2bet: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
+.. _wedAM2bet: 05-09-2018_wednesday/talk_title__author__cppnow_05-09-2018.md
 .. |wedAM2betV| replace:: (video)
 .. _wedAM2betV: 
 
 .. |wedPM0flg| replace:: Runtime Polymorphism: Back to the Basics, *Louis Dionne*
-.. _wedPM0flg: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
+.. _wedPM0flg: 05-09-2018_wednesday/talk_title__author__cppnow_05-09-2018.md
 .. |wedPM0flgV| replace:: (video)
 .. _wedPM0flgV: 
 .. |wedPM0hud| replace:: How Compilers Reason About Exceptions, *Michael Spencer*
-.. _wedPM0hud: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
+.. _wedPM0hud: 05-09-2018_wednesday/talk_title__author__cppnow_05-09-2018.md
 .. |wedPM0hudV| replace:: (video)
 .. _wedPM0hudV: 
 .. |wedPM0bet| replace:: Initializer Lists Are Broken, Let's Fix Them, *Jason Turner*
-.. _wedPM0bet: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
+.. _wedPM0bet: 05-09-2018_wednesday/talk_title__author__cppnow_05-09-2018.md
 .. |wedPM0betV| replace:: (video)
 .. _wedPM0betV: 
 
 .. |wedPM2flg| replace:: The Current State of Modules in C++, *John Lakos*
-.. _wedPM2flg: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
+.. _wedPM2flg: 05-09-2018_wednesday/talk_title__author__cppnow_05-09-2018.md
 .. |wedPM2flgV| replace:: (video)
 .. _wedPM2flgV: 
 .. |wedPM2hud| replace:: Argot: Simplying Variants, Tuples and Futures, *Matt Calabrese*
-.. _wedPM2hud: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
+.. _wedPM2hud: 05-09-2018_wednesday/talk_title__author__cppnow_05-09-2018.md
 .. |wedPM2hudV| replace:: (video)
 .. _wedPM2hudV: 
 .. |wedPM2bet| replace:: Optional(al) is Not A Failure, *Phil Nash*
-.. _wedPM2bet: 05-09-2018_wednesday/TALK_TITLE__AUTHOR__cppnow_05-09-2018.md
+.. _wedPM2bet: 05-09-2018_wednesday/talk_title__author__cppnow_05-09-2018.md
 .. |wedPM2betV| replace:: (video)
 .. _wedPM2betV: 
 
 .. Thursday, May 10
 
 .. |thuAM0flg| replace:: Easy to Use, Hard to Misuse - Declarative Style in C++, *Ben Deane*
-.. _thuAM0flg: 05-10-2018_thursday/Easy_to_Use,_Hard_to_Misuse_-_Declarative_Style_in_C++__Ben_Deane__cppnow_05-10-2018.pdf
+.. _thuAM0flg: 05-10-2018_thursday/easy_to_use_hard_to_misuse__declarative_style_in_cpp__ben_deane__cppnow_05102018.pdf
 .. |thuAM0flgV| replace:: (video)
 .. _thuAM0flgV: 
 .. |thuAM0hud| replace:: yomm2: Fast, Orthogonal, Open Methods in a Library, *Jean-Loius Leroy*
-.. _thuAM0hud: 05-10-2018_thursday/TALK_TITLE__AUTHOR__cppnow_05-10-2018.md
+.. _thuAM0hud: 05-10-2018_thursday/talk_title__author__cppnow_05-10-2018.md
 .. |thuAM0hudV| replace:: (video)
 .. _thuAM0hudV: 
 .. |thuAM0bet| replace:: The Problem with "Cutting Edge C++", *Jens Weller*
-.. _thuAM0bet: 05-10-2018_thursday/The_Problem_with_Cutting_Edge_C++__Jens_Weller__cppnow_05-10-2018.pdf
+.. _thuAM0bet: 05-10-2018_thursday/the_problem_with_cutting_edge_cpp__jens_weller__cppnow_05102018.pdf
 .. |thuAM0betV| replace:: (video)
 .. _thuAM0betV: 
 
 .. |thuAM2flg| replace:: A View to a View, *Peter Bindels*
-.. _thuAM2flg: 05-10-2018_thursday/A_View_to_a_View__Peter_Bindles__cppnow_05-10-2018.pdf
+.. _thuAM2flg: 05-10-2018_thursday/a_view_to_a_view__peter_bindles__cppnow_05102018.pdf
 .. |thuAM2flgV| replace:: (video)
 .. _thuAM2flgV: 
 .. |thuAM2hud| replace:: -Os Matters, *Mark Zeren*
-.. _thuAM2hud: 05-10-2018_thursday/TALK_TITLE__AUTHOR__cppnow_05-10-2018.md
+.. _thuAM2hud: 05-10-2018_thursday/talk_title__author__cppnow_05-10-2018.md
 .. |thuAM2hudV| replace:: (video)
 .. _thuAM2hudV: 
 .. |thuAM2bet| replace:: From Parsing to sema: Making Sense of Syntax Trees, *Michał Dominiak*
-.. _thuAM2bet: 05-10-2018_thursday/TALK_TITLE__AUTHOR__cppnow_05-10-2018.md
+.. _thuAM2bet: 05-10-2018_thursday/talk_title__author__cppnow_05-10-2018.md
 .. |thuAM2betV| replace:: (video)
 .. _thuAM2betV: 
 
 .. |thuAM3flg| replace:: Debug C++ Without Running, *Anastasiia Kazakova*
-.. _thuAM3flg: 05-10-2018_thursday/Debug_C++_w_o_Running__Anastasiia_Kazakova__cppnow_05-10-2018.pdf
+.. _thuAM3flg: 05-10-2018_thursday/debug_cpp_w_o_running__anastasiia_kazakova__cppnow_05102018.pdf
 .. |thuAM3flgV| replace:: (video)
 .. _thuAM3flgV: 
 .. |thuAM3hud| replace:: Making Your Library More Reliable with Fuzzing, *Marshall Clow*
-.. _thuAM3hud: 05-10-2018_thursday/Making_Your_Library_More_Reliable_with_Fuzzing__Marshall_Clow__cppnow_05-18-2018.pdf
+.. _thuAM3hud: 05-10-2018_thursday/making_your_library_more_reliable_with_fuzzing__marshall_clow__cppnow_05182018.pdf
 .. |thuAM3hudV| replace:: (video)
 .. _thuAM3hudV: 
 
 .. |thuPM0flg| replace:: Modern C++ in Embedded Systems, *Michael Caisse*
-.. _thuPM0flg: 05-10-2018_thursday/TALK_TITLE__AUTHOR__cppnow_05-10-2018.md
+.. _thuPM0flg: 05-10-2018_thursday/talk_title__author__cppnow_05-10-2018.md
 .. |thuPM0flgV| replace:: (video)
 .. _thuPM0flgV: 
 .. |thuPM0hud| replace:: My Little *this Deduction: Friendship is ... Uniform?, *Gašper Ažman*
-.. _thuPM0hud: 05-10-2018_thursday/TALK_TITLE__AUTHOR__cppnow_05-10-2018.md
+.. _thuPM0hud: 05-10-2018_thursday/talk_title__author__cppnow_05-10-2018.md
 .. |thuPM0hudV| replace:: (video)
 .. _thuPM0hudV: 
 .. |thuPM0bet| replace:: Secure Coding Best Practices: Your First Line Is The Last Line Of Defense, *Matthew Buttler*
-.. _thuPM0bet: 05-10-2018_thursday/TALK_TITLE__AUTHOR__cppnow_05-10-2018.md
+.. _thuPM0bet: 05-10-2018_thursday/talk_title__author__cppnow_05-10-2018.md
 .. |thuPM0betV| replace:: (video)
 .. _thuPM0betV: 
 
 .. |thuPM2flg| replace:: Modern C++ API Design: From Rvalue-References to Type Design, *Titus Winters*
-.. _thuPM2flg: 05-10-2018_thursday/TALK_TITLE__AUTHOR__cppnow_05-10-2018.md
+.. _thuPM2flg: 05-10-2018_thursday/talk_title__author__cppnow_05-10-2018.md
 .. |thuPM2flgV| replace:: (video)
 .. _thuPM2flgV: 
 .. |thuPM2hud| replace:: Compile Fast, Run Faster, Scale Forever - a Look into the sol2 Libary, *JeanHeyd "ThePhD" Meneide*
-.. _thuPM2hud: 05-10-2018_thursday/Compile_Fast,_Run_Faster,_Scale_Forever_-_a_Look_into_the_sol2_Library__ThePhD__cppnow_05-10-2018.pdf
+.. _thuPM2hud: 05-10-2018_thursday/compile_fast_run_faster_scale_forever__a_look_into_the_sol2_library__thephd__cppnow_05102018.pdf
 .. |thuPM2hudV| replace:: (video)
 .. _thuPM2hudV: 
 .. |thuPM2bet| replace:: C++ Development with Visual Studio Code, *Rong Lu*
-.. _thuPM2bet: 05-10-2018_thursday/TALK_TITLE__AUTHOR__cppnow_05-10-2018.md
+.. _thuPM2bet: 05-10-2018_thursday/talk_title__author__cppnow_05-10-2018.md
 .. |thuPM2betV| replace:: (video)
 .. _thuPM2betV:   
 
@@ -337,6 +337,6 @@ Wednesday
 .. Friday, May 11
 
 .. |friAM0pae| replace:: Closing Keynote: Undefined Behavior and Compiler Optimizations, *John Regher*
-.. _friAM0pae: 05-11-2018_friday/TALK_TITLE__AUTHOR__cppnow_05-11-2018.md
+.. _friAM0pae: 05-11-2018_friday/talk_title__author__cppnow_05-11-2018.md
 .. |friAM0paeV| replace:: (video)
 .. _friAM0paeV: https://youtu.be/AeEwxtEOgH0
