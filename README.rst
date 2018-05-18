@@ -270,17 +270,17 @@ Wednesday
 .. Thursday, May 10
 
 .. |thuAM0flg| replace:: Easy to Use, Hard to Misuse - Declarative Style in C++, *Ben Deane*
-.. _thuAM2flg: 05-10-2018_thursday/Easy_to_Use,_Hard_to_Misuse_-_Declarative_Style_in_C++__Ben_Deane__cppnow_05-10-2018.pdf
+.. _thuAM0flg: 05-10-2018_thursday/Easy_to_Use,_Hard_to_Misuse_-_Declarative_Style_in_C++__Ben_Deane__cppnow_05-10-2018.pdf
 .. |thuAM0flgV| replace:: (video)
-.. _thuAM2flgV: 
+.. _thuAM0flgV: 
 .. |thuAM0hud| replace:: yomm2: Fast, Orthogonal, Open Methods in a Library, *Jean-Loius Leroy*
-.. _thuAM2hud: 05-10-2018_thursday/TALK_TITLE__AUTHOR__cppnow_05-10-2018.md
+.. _thuAM0hud: 05-10-2018_thursday/TALK_TITLE__AUTHOR__cppnow_05-10-2018.md
 .. |thuAM0hudV| replace:: (video)
-.. _thuAM2hudV: 
-.. |thuAM2bet| replace:: The Problem with "Cutting Edge C++", *Jens Weller*
-.. _thuAM2bet: 05-10-2018_thursday/The_Problem_with_Cutting_Edge_C++__Jens_Weller__cppnow_05-10-2018.pdf
-.. |thuAM2betV| replace:: (video)
-.. _thuAM2betV: 
+.. _thuAM0hudV: 
+.. |thuAM0bet| replace:: The Problem with "Cutting Edge C++", *Jens Weller*
+.. _thuAM0bet: 05-10-2018_thursday/The_Problem_with_Cutting_Edge_C++__Jens_Weller__cppnow_05-10-2018.pdf
+.. |thuAM0betV| replace:: (video)
+.. _thuAM0betV: 
 
 .. |thuAM2flg| replace:: A View to a View, *Peter Bindels*
 .. _thuAM2flg: 05-10-2018_thursday/A_View_to_a_View__Peter_Bindles__cppnow_05-10-2018.pdf
