@@ -4,10 +4,9 @@ C++Now 2018 Presentations
 
 |guidelines|_
 
-
-
-.. |guidelines| replace:: 
+.. |guidelines| replace:: Slide Deck Submission Guidelines
 .. _guidelines: SLIDE_DECK_GUIDELINES.md
+
 
 Monday, May 07
 ==============
@@ -28,6 +27,7 @@ Monday, May 07
 | Afternoon (4:30-6:00) | |monPM2flg|_ |monPM2flgV|_ | |monPM2hud|_ |monPM2hudV|_ | |monPM2bet|_ |monPM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
+
 Tuesday, May 08
 ===============
 
@@ -45,6 +45,7 @@ Tuesday, May 08
 | Afternoon (4:30-6:00) | |tuePM2flg|_ |tuePM2flgV|_ | |tuePM2hud|_ |tuePM2hudV|_ | |tuePM2bet|_ |tuePM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
+
 Wednesday, May 09
 =================
 
@@ -59,6 +60,7 @@ Wednesday, May 09
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Afternoon (4:30-6:00) | |wedPM2flg|_ |wedPM2flgV|_ | |wedPM2hud|_ |wedPM2hudV|_ | |wedPM2bet|_ |wedPM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
+
 
 Thursday, May 10
 ================
@@ -76,6 +78,7 @@ Thursday, May 10
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Afternoon (4:30-6:00) | |thuPM2flg|_ |thuPM2flgV|_ | |thuPM2hud|_ |thuPM2hudV|_ | |thuPM2bet|_ |thuPM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
+
 
 Friday, May 11
 ==============
