@@ -203,7 +203,7 @@ Wednesday
 .. _tuePM0betV: 
 
 .. |tuePM2flg| replace:: Moving Faster: Everyday Efficiency in Modern C++, *Alan Talbot*
-.. _tuePM2flg: 05-08-2018_tuesday/talk_title__author__cppnow_05082018.md
+.. _tuePM2flg: 05-08-2018_tuesday/moving_faster__everyday_efficiency_in_modern_cpp__cppnow_05082018.pdf
 .. |tuePM2flgV| replace:: (video)
 .. _tuePM2flgV: 
 .. |tuePM2hud| replace:: Generative Programming & Declarative Interfaces: Emulating the Nintendo 3DS, *Tony Wasserka*
@@ -308,7 +308,7 @@ Wednesday
 .. _thuAM3hudV: 
 
 .. |thuPM0flg| replace:: Modern C++ in Embedded Systems, *Michael Caisse*
-.. _thuPM0flg: 05-10-2018_thursday/talk_title__author__cppnow_05102018.md
+.. _thuPM0flg: 05-10-2018_thursday/modern_cpp_in_an_embedded_world__michael_caisse__cpnow_05102018.pdf
 .. |thuPM0flgV| replace:: (video)
 .. _thuPM0flgV: 
 .. |thuPM0hud| replace:: My Little *this Deduction: Friendship is ... Uniform?, *Gašper Ažman*
