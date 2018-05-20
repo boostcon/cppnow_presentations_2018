@@ -139,15 +139,15 @@ Wednesday
 .. _monPM0betV: 
 
 .. |monPM2flg| replace:: C++17's std::pmr Comes With a Cost
-.. _monPM2flg: 05-07-2018_monday/talk_title__author__cppnow_0507-2018.md
+.. _monPM2flg: 05-07-2018_monday/talk_title__author__cppnow_05072018.md
 .. |monPM2flgV| replace:: (video)
 .. _monPM2flgV: 
 .. |monPM2hud| replace:: Beyond C++17, *Mateusz Pusz*
-.. _monPM2hud: 05-07-2018_monday/talk_title__author__cppnow_0507-2018.md
+.. _monPM2hud: 05-07-2018_monday/beyond_cpp17__mateusz_pusz__cppnow_05072018.pdf
 .. |monPM2hudV| replace:: (video)
 .. _monPM2hudV: 
 .. |monPM2bet| replace:: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2 of 2)
-.. _monPM2bet: 05-07-2018_monday/talk_title__author__cppnow_0507-2018.md
+.. _monPM2bet: 05-07-2018_monday/talk_title__author__cppnow_05072018.md
 .. |monPM2betV| replace:: (video)
 .. _monPM2betV: 
 
@@ -168,7 +168,7 @@ Wednesday
 .. _tueAM0betV: 
 
 .. |tueAM2flg| replace:: Git, CMake, Conan: How to Ship and Reuse our C++ Projects, *Mateusz Pusz*
-.. _tueAM2flg: 05-08-2018_tuesday/talk_title__author__cppnow_05082018.md
+.. _tueAM2flg: 05-08-2018_tuesday/git_cmake_conan__how_to_ship_and_reuse_our_cpp_projects__mateusz_pusz__cppnow_05202018.pdf
 .. |tueAM2flgV| replace:: (video)
 .. _tueAM2flgV: 
 .. |tueAM2hud| replace:: The Untapped Potential of Software Visualization, *Eberhard Gräther*
