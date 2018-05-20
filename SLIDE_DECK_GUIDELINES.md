@@ -14,6 +14,7 @@ Slide Deck Guidelines
   - Include the name and year of the conference somewhere in your slide deck.
   - Include links to supplemental presentation materials (example code, referenced documents, etc) in your slide deck.
 - Place your copyright somewhere in your slide deck.
+- Slide decks should be sent to speaker-files@cppnow.org.
 
 FAQ
 ---
@@ -34,7 +35,3 @@ This repository should be complete without any depedencies aside from a PDF view
 *Why should we include contextual information (conference name, links, etc)? Why should we include a copyright?*
 
 Our audience (both conference attendees and video viewers) may redistribute our slide decks to their colleagues. Our slide decks should contain as much context as possible to inform those who receive the slides second- (or third-, or fourth-) hand.
-
-*Where to send the slides to?*
-
-speaker-files@cppnow.org
