@@ -35,3 +35,4 @@ This repository should be complete without any depedencies aside from a PDF view
 *Why should we include contextual information (conference name, links, etc)? Why should we include a copyright?*
 
 Our audience (both conference attendees and video viewers) may redistribute our slide decks to their colleagues. Our slide decks should contain as much context as possible to inform those who receive the slides second- (or third-, or fourth-) hand.
+
