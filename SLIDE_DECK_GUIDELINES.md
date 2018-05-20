@@ -35,3 +35,6 @@ This repository should be complete without any depedencies aside from a PDF view
 
 Our audience (both conference attendees and video viewers) may redistribute our slide decks to their colleagues. Our slide decks should contain as much context as possible to inform those who receive the slides second- (or third-, or fourth-) hand.
 
+*Where to send the slides to?*
+
+speaker-files@cppnow.org
