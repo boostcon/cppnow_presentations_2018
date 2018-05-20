@@ -190,7 +190,7 @@ Wednesday
 .. _tueAM3hudV: 
 
 .. |tuePM0flg| replace:: Futures without Type Erasure, *Vittorio Romeo*
-.. _tuePM0flg: 05-08-2018_tuesday/talk_title__author__cppnow_05082018.md
+.. _tuePM0flg: 05-08-2018_tuesday/futures_without_type_erasure__vittorio_romeo__cppnow_05082018.pdf
 .. |tuePM0flgV| replace:: (video)
 .. _tuePM0flgV: 
 .. |tuePM0hud| replace:: The Julia Language and C++: The Perfect Marriage? *Keno Discher, Bart Janssens*
