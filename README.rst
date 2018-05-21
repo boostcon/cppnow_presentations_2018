@@ -119,7 +119,7 @@ Wednesday
 .. _monAM2hud: 05-07-2018_monday/a_quantum_data_structure_for_classical_computers__charley_bay__cppnow_2018__05072018.pdf
 .. |monAM2hudV| replace:: (video)
 .. _monAM2hudV: https://youtu.be/Y2K82EVGxaI
-.. |monAM2bet| replace:: Fast Conversion from UTF-8 with C++, DFAs, and SSE Intrinsics
+.. |monAM2bet| replace:: Fast Conversion from UTF-8 with C++, DFAs, and SSE Intrinsics, *Bob Steagall*
 .. _monAM2bet: 05-07-2018_monday/fast_conversion_from_utf8_with_cpp_dfas_and_sse_intrinsics__bob_steagall__cppnow_05072018.pdf
 .. |monAM2betV| replace:: (video)
 .. _monAM2betV: https://youtu.be/h5oczBeib_M
@@ -133,12 +133,12 @@ Wednesday
 .. _monPM0hud: 05-07-2018_monday/generalized_full_duplex_messaging__jason_rice__cppnow_05072018.pdf
 .. |monPM0hudV| replace:: (video)
 .. _monPM0hudV: 
-.. |monPM0bet| replace:: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1 of 2)
+.. |monPM0bet| replace:: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1 of 2), *Zach Laine*
 .. _monPM0bet: 05-07-2018_monday/talk_title__author__cppnow_05072018.md
 .. |monPM0betV| replace:: (video)
 .. _monPM0betV: 
 
-.. |monPM2flg| replace:: C++17's std::pmr Comes With a Cost
+.. |monPM2flg| replace:: C++17's std::pmr Comes With a Cost, *David Sankel*
 .. _monPM2flg: 05-07-2018_monday/talk_title__author__cppnow_05072018.md
 .. |monPM2flgV| replace:: (video)
 .. _monPM2flgV: 
@@ -146,7 +146,7 @@ Wednesday
 .. _monPM2hud: 05-07-2018_monday/beyond_cpp17__mateusz_pusz__cppnow_05072018.pdf
 .. |monPM2hudV| replace:: (video)
 .. _monPM2hudV: 
-.. |monPM2bet| replace:: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2 of 2)
+.. |monPM2bet| replace:: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2 of 2), *Zach Laine*
 .. _monPM2bet: 05-07-2018_monday/talk_title__author__cppnow_05072018.md
 .. |monPM2betV| replace:: (video)
 .. _monPM2betV: 
