@@ -337,6 +337,6 @@ Wednesday
 .. Friday, May 11
 
 .. |friAM0pae| replace:: Closing Keynote: Undefined Behavior and Compiler Optimizations, *John Regher*
-.. _friAM0pae: 05-11-2018_friday/talk_title__author__cppnow_05112018.md
+.. _friAM0pae: 05-11-2018_friday/undefined_behavior_and_compiler_optimizations__john_regehr__cppnow__05112018.pdf
 .. |friAM0paeV| replace:: (video)
 .. _friAM0paeV: https://youtu.be/AeEwxtEOgH0

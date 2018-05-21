@@ -7,7 +7,7 @@ Slide Deck Guidelines
   - `TALK_TITLE` should be the title of the talk, restricted to lowercase alphanumeric characters and `_`.
     - `C++` should be escaped as `cpp`.
   - `SPEAKER_NAME` should be the name of the speaker (first name, middle name(s) and last name in that order), restricted to lowercase alphanumeric characters and `_`.
-  - `TALK_DATE` should be the date the talk was presented, in the format MM-DD-YYYY.
+  - `TALK_DATE` should be the date the talk was presented, in the format MMDDYYYY (e.g., May 10th, 2018 should be 05102018).
 - The actual slide deck should be in this repository. No links.
 - Slide decks should be context-free.
   - Include your name and a way to contact you (email, twitter, etc).
