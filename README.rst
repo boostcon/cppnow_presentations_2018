@@ -129,7 +129,7 @@ Wednesday
 .. _monPM0flg: 05-07-2018_monday/an_allocator_is_a_handle_to_a_heap__arthur_o_dywer__cppnow_05072018.pdf
 .. |monPM0flgV| replace:: (video)
 .. _monPM0flgV: https://youtu.be/0MdSJsCTRkY
-.. |monPM0hud| replace:: Generalized FUll Duplex Messaging, *Jason Rice*
+.. |monPM0hud| replace:: Generalized Full Duplex Messaging, *Jason Rice*
 .. _monPM0hud: 05-07-2018_monday/generalized_full_duplex_messaging__jason_rice__cppnow_05072018.pdf
 .. |monPM0hudV| replace:: (video)
 .. _monPM0hudV: 
@@ -193,7 +193,7 @@ Wednesday
 .. _tuePM0flg: 05-08-2018_tuesday/futures_without_type_erasure__vittorio_romeo__cppnow_05082018.pdf
 .. |tuePM0flgV| replace:: (video)
 .. _tuePM0flgV: 
-.. |tuePM0hud| replace:: The Julia Language and C++: The Perfect Marriage? *Keno Discher, Bart Janssens*
+.. |tuePM0hud| replace:: The Julia Language and C++: The Perfect Marriage? *Keno Fischer, Bart Janssens*
 .. _tuePM0hud: 05-08-2018_tuesday/talk_title__author__cppnow_05082018.md
 .. |tuePM0hudV| replace:: (video)
 .. _tuePM0hudV: 
@@ -239,7 +239,7 @@ Wednesday
 .. _wedAM2hud: 05-09-2018_wednesday/talk_title__author__cppnow_05092018.md
 .. |wedAM2hudV| replace:: (video)
 .. _wedAM2hudV: 
-.. |wedAM2bet| replace:: You Can Do Better than std::unordered_map: New and Recent IMprovements to Hash Table Performance, *Malte Skarupke*
+.. |wedAM2bet| replace:: You Can Do Better than std::unordered_map: New and Recent Improvements to Hash Table Performance, *Malte Skarupke*
 .. _wedAM2bet: 05-09-2018_wednesday/talk_title__author__cppnow_05092018.md
 .. |wedAM2betV| replace:: (video)
 .. _wedAM2betV: 
@@ -298,8 +298,8 @@ Wednesday
 .. |thuAM2betV| replace:: (video)
 .. _thuAM2betV: 
 
-.. |thuAM3flg| replace:: Debug C++ Without Running, *Anastasiia Kazakova*
-.. _thuAM3flg: 05-10-2018_thursday/debug_cpp_w_o_running__anastasiia_kazakova__cppnow_05102018.pdf
+.. |thuAM3flg| replace:: Debug C++ Without Running, *Anastasia Kazakova*
+.. _thuAM3flg: 05-10-2018_thursday/debug_cpp_w_o_running__anastasia_kazakova__cppnow_05102018.pdf
 .. |thuAM3flgV| replace:: (video)
 .. _thuAM3flgV: 
 .. |thuAM3hud| replace:: Making Your Library More Reliable with Fuzzing, *Marshall Clow*
@@ -311,7 +311,7 @@ Wednesday
 .. _thuPM0flg: 05-10-2018_thursday/modern_cpp_in_an_embedded_world__michael_caisse__cpnow_05102018.pdf
 .. |thuPM0flgV| replace:: (video)
 .. _thuPM0flgV: 
-.. |thuPM0hud| replace:: My Little *this Deduction: Friendship is ... Uniform?, *Gašper Ažman*
+.. |thuPM0hud| replace:: My Little \*this Deduction: Friendship is ... Uniform?, *Gašper Ažman*
 .. _thuPM0hud: 05-10-2018_thursday/talk_title__author__cppnow_05102018.md
 .. |thuPM0hudV| replace:: (video)
 .. _thuPM0hudV: 
@@ -324,7 +324,7 @@ Wednesday
 .. _thuPM2flg: 05-10-2018_thursday/talk_title__author__cppnow_05102018.md
 .. |thuPM2flgV| replace:: (video)
 .. _thuPM2flgV: 
-.. |thuPM2hud| replace:: Compile Fast, Run Faster, Scale Forever - a Look into the sol2 Libary, *JeanHeyd "ThePhD" Meneide*
+.. |thuPM2hud| replace:: Compile Fast, Run Faster, Scale Forever - a Look into the sol2 Libary, *ThePhD*
 .. _thuPM2hud: 05-10-2018_thursday/compile_fast_run_faster_scale_forever__a_look_into_the_sol2_library__thephd__cppnow_05102018.pdf
 .. |thuPM2hudV| replace:: (video)
 .. _thuPM2hudV: 
@@ -336,7 +336,7 @@ Wednesday
 
 .. Friday, May 11
 
-.. |friAM0pae| replace:: Closing Keynote: Undefined Behavior and Compiler Optimizations, *John Regher*
+.. |friAM0pae| replace:: Closing Keynote: Undefined Behavior and Compiler Optimizations, *John Regehr*
 .. _friAM0pae: 05-11-2018_friday/undefined_behavior_and_compiler_optimizations__john_regehr__cppnow__05112018.pdf
 .. |friAM0paeV| replace:: (video)
 .. _friAM0paeV: https://youtu.be/AeEwxtEOgH0
