@@ -194,7 +194,7 @@ Wednesday
 .. |tuePM0flgV| replace:: (video)
 .. _tuePM0flgV: 
 .. |tuePM0hud| replace:: The Julia Language and C++: The Perfect Marriage? *Keno Fischer, Bart Janssens*
-.. _tuePM0hud: 05-08-2018_tuesday/talk_title__author__cppnow_05082018.md
+.. _tuePM0hud: 05-08-2018_tuesday/the_julia_language_and_cpp__bart_janssens__cppnow__05082018.pdf
 .. |tuePM0hudV| replace:: (video)
 .. _tuePM0hudV: 
 .. |tuePM0bet| replace:: Smart Output Iterators, *Jonathan Boccara*
