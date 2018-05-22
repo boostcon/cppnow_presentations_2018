@@ -253,7 +253,7 @@ Wednesday
 .. |wedPM0hudV| replace:: (video)
 .. _wedPM0hudV: 
 .. |wedPM0bet| replace:: Initializer Lists Are Broken, Let's Fix Them, *Jason Turner*
-.. _wedPM0bet: 05-09-2018_wednesday/talk_title__author__cppnow_05092018.md
+.. _wedPM0bet: 05-09-2018_wednesday/initializer_lists_are_broken__jason_turner__cppnow_05092018.pdf
 .. |wedPM0betV| replace:: (video)
 .. _wedPM0betV: 
 
