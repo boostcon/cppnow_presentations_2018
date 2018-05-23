@@ -107,12 +107,12 @@ Wednesday
 .. Monday, May 07
 
 .. |monAM0pae| replace:: Opening Keynote: The Shape of a Program, *Lisa Lippincott*
-.. _monAM0pae: 
+.. _monAM0pae_x: 
 .. |monAM0paeV| replace:: (video)
 .. _monAM0paeV: https://www.youtube.com/watch?v=QFIOE1jKv30
 
 .. |monAM2flg| replace:: C++ Mixins: Customization Through Compile Time Composition, *Odin Holmes*
-.. _monAM2flg: 
+.. _monAM2flg_x: 
 .. |monAM2flgV| replace:: (video)
 .. _monAM2flgV: https://youtu.be/wWZi_wPyVvs
 .. |monAM2hud| replace:: A Quantum Data Structure for Classical Computers, *Charles Bay*
@@ -134,12 +134,12 @@ Wednesday
 .. |monPM0hudV| replace:: (video)
 .. _monPM0hudV: https://youtu.be/UalTAQmP3iE
 .. |monPM0bet| replace:: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1 of 2), *Zach Laine*
-.. _monPM0bet: 
+.. _monPM0bet_x: 
 .. |monPM0betV| replace:: (video)
 .. _monPM0betV: https://youtu.be/944GjKxwMBo
 
 .. |monPM2flg| replace:: C++17's std::pmr Comes With a Cost, *David Sankel*
-.. _monPM2flg: 
+.. _monPM2flgx: 
 .. |monPM2flgV| replace:: (video)
 .. _monPM2flgV: 
 .. |monPM2hud| replace:: Beyond C++17, *Mateusz Pusz*
@@ -147,7 +147,7 @@ Wednesday
 .. |monPM2hudV| replace:: (video)
 .. _monPM2hudV: https://youtu.be/y7PBciQp0B8
 .. |monPM2bet| replace:: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2 of 2), *Zach Laine*
-.. _monPM2bet: 
+.. _monPM2bet_x: 
 .. |monPM2betV| replace:: (video)
 .. _monPM2betV: https://youtu.be/GJ2xMAqCZL8
 
@@ -163,7 +163,7 @@ Wednesday
 .. |tueAM0hudV| replace:: (video)
 .. _tueAM0hudV: 
 .. |tueAM0bet| replace:: The Continuing Saga of the Lock-Free Queue: Part 3 of N, *Tony Van Eerd*
-.. _tueAM0bet: 
+.. _tueAM0bet_x: 
 .. |tueAM0betV| replace:: (video)
 .. _tueAM0betV: 
 
@@ -176,7 +176,7 @@ Wednesday
 .. |tueAM2hudV| replace:: (video)
 .. _tueAM2hudV: 
 .. |tueAM2bet| replace:: Boost.TMP: Your DSL for Metaprogramming, *Odin Holmes*
-.. _tueAM2bet: 
+.. _tueAM2bet_x: 
 .. |tueAM2betV| replace:: (video)
 .. _tueAM2betV: 
 
@@ -185,7 +185,7 @@ Wednesday
 .. |tueAM3flgV| replace:: (video)
 .. _tueAM3flgV: 
 .. |tueAM3hud| replace:: Fortransformers: A Field Study, *Tobias Loew*
-.. _tueAM3hud: 
+.. _tueAM3hud_x: 
 .. |tueAM3hudV| replace:: (video)
 .. _tueAM3hudV: 
 
@@ -198,7 +198,7 @@ Wednesday
 .. |tuePM0hudV| replace:: (video)
 .. _tuePM0hudV: 
 .. |tuePM0bet| replace:: Smart Output Iterators, *Jonathan Boccara*
-.. _tuePM0bet: 
+.. _tuePM0bet_x: 
 .. |tuePM0betV| replace:: (video)
 .. _tuePM0betV: 
 
@@ -207,7 +207,7 @@ Wednesday
 .. |tuePM2flgV| replace:: (video)
 .. _tuePM2flgV: 
 .. |tuePM2hud| replace:: Generative Programming & Declarative Interfaces: Emulating the Nintendo 3DS, *Tony Wasserka*
-.. _tuePM2hud: 
+.. _tuePM2hud_x: 
 .. |tuePM2hudV| replace:: (video)
 .. _tuePM2hudV: 
 .. |tuePM2bet| replace:: What Else has My Compiler Done for Me Lately? *Matt Godbolt*
@@ -223,33 +223,33 @@ Wednesday
 .. |wedAM0flgV| replace:: (video)
 .. _wedAM0flgV: 
 .. |wedAM0hud| replace:: Words of Wisdom, *Tony Van Eerd*
-.. _wedAM0hud: 
+.. _wedAM0hud_x: 
 .. |wedAM0hudV| replace:: (video)
 .. _wedAM0hudV: 
 .. |wedAM0bet| replace:: Game Engine API Design, *Allan Deustch*
-.. _wedAM0bet: 
+.. _wedAM0bet_x: 
 .. |wedAM0betV| replace:: (video)
 .. _wedAM0betV: 
 
 .. |wedAM2flg| replace:: Rethinking Pointers, *Jonathan Müller*
-.. _wedAM2flg: 
+.. _wedAM2flg_x: 
 .. |wedAM2flgV| replace:: (video)
 .. _wedAM2flgV: 
 .. |wedAM2hud| replace:: Design and Implementation of DBMS Asynchronous Client Library with C++17, Boost.Hana and Boost.Asio, *Roman Siromakha*
-.. _wedAM2hud: 
+.. _wedAM2hud_x: 
 .. |wedAM2hudV| replace:: (video)
 .. _wedAM2hudV: 
 .. |wedAM2bet| replace:: You Can Do Better than std::unordered_map: New and Recent Improvements to Hash Table Performance, *Malte Skarupke*
-.. _wedAM2bet: 
+.. _wedAM2bet_x: 
 .. |wedAM2betV| replace:: (video)
 .. _wedAM2betV: 
 
 .. |wedPM0flg| replace:: Runtime Polymorphism: Back to the Basics, *Louis Dionne*
-.. _wedPM0flg: 
+.. _wedPM0flg_x: 
 .. |wedPM0flgV| replace:: (video)
 .. _wedPM0flgV: 
 .. |wedPM0hud| replace:: How Compilers Reason About Exceptions, *Michael Spencer*
-.. _wedPM0hud: 
+.. _wedPM0hud_x: 
 .. |wedPM0hudV| replace:: (video)
 .. _wedPM0hudV: 
 .. |wedPM0bet| replace:: Initializer Lists Are Broken, Let's Fix Them, *Jason Turner*
@@ -258,7 +258,7 @@ Wednesday
 .. _wedPM0betV: 
 
 .. |wedPM2flg| replace:: The Current State of Modules in C++, *John Lakos*
-.. _wedPM2flg: 
+.. _wedPM2flg_x: 
 .. |wedPM2flgV| replace:: (video)
 .. _wedPM2flgV: 
 .. |wedPM2hud| replace:: Argot: Simplying Variants, Tuples and Futures, *Matt Calabrese*
@@ -266,7 +266,7 @@ Wednesday
 .. |wedPM2hudV| replace:: (video)
 .. _wedPM2hudV: 
 .. |wedPM2bet| replace:: Optional(al) is Not A Failure, *Phil Nash*
-.. _wedPM2bet: 
+.. _wedPM2bet_x: 
 .. |wedPM2betV| replace:: (video)
 .. _wedPM2betV: 
 
