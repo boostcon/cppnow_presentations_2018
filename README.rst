@@ -236,7 +236,7 @@ Wednesday
 .. |wedAM2flgV| replace:: (video)
 .. _wedAM2flgV: 
 .. |wedAM2hud| replace:: Design and Implementation of DBMS Asynchronous Client Library with C++17, Boost.Hana and Boost.Asio, *Roman Siromakha*
-.. _wedAM2hud: 
+.. _wedAM2hud: 05-09-2018_wednesday/design_and_implementation_of_dbms_asynchronous_client_library__roman_siromakha__cppnow_05092018.pdf
 .. |wedAM2hudV| replace:: (video)
 .. _wedAM2hudV: 
 .. |wedAM2bet| replace:: You Can Do Better than std::unordered_map: New and Recent Improvements to Hash Table Performance, *Malte Skarupke*
