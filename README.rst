@@ -14,7 +14,7 @@ Monday, May 07
 +-----------------------+----------------------------+
 |                       | Paepcke                    |
 +=======================+============================+
-| Morning (9:00-10:30)  | |monAM0pae|_ |monAM0paeV|_ |
+| Morning (9:00-10:30)  | |monAM0pae|  |monAM0paeV|_ |
 +-----------------------+----------------------------+
 
 +-----------------------+----------------------------+----------------------------+----------------------------+
@@ -22,9 +22,9 @@ Monday, May 07
 +=======================+============================+============================+============================+
 | Morning (11:00-12:30) | |monAM2flg|_ |monAM2flgV|_ | |monAM2hud|_ |monAM2hudV|_ | |monAM2bet|_ |monAM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (2:30-4:00) | |monPM0flg|_ |monPM0flgV|_ | |monPM0hud|_ |monPM0hudV|_ | |monPM0bet|_ |monPM0betV|_ |
+| Afternoon (2:30-4:00) | |monPM0flg|_ |monPM0flgV|_ | |monPM0hud|_ |monPM0hudV|_ | |monPM0bet|  |monPM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (4:30-6:00) | |monPM2flg|_ |monPM2flgV|_ | |monPM2hud|_ |monPM2hudV|_ | |monPM2bet|_ |monPM2betV|_ |
+| Afternoon (4:30-6:00) | |monPM2flg|  |monPM2flgV|_ | |monPM2hud|_ |monPM2hudV|_ | |monPM2bet|  |monPM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
 
@@ -34,15 +34,15 @@ Tuesday, May 08
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (9:00-10:30)  | |tueAM0flg|_ |tueAM0flgV|_ | |tueAM0hud|_ |tueAM0hudV|_ | |tueAM0bet|_ |tueAM0betV|_ |
+| Morning (9:00-10:30)  | |tueAM0flg|_ |tueAM0flgV|_ | |tueAM0hud|_ |tueAM0hudV|_ | |tueAM0bet|  |tueAM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Morning (11:00-11:45) | |tueAM2flg|_ |tueAM2flgV|_ | |tueAM2hud|_ |tueAM2hudV|_ | |tueAM2bet|_ |tueAM2betV|_ |
+| Morning (11:00-11:45) | |tueAM2flg|_ |tueAM2flgV|_ | |tueAM2hud|_ |tueAM2hudV|_ | |tueAM2bet|  |tueAM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Morning (11:45-12:30) | |tueAM3flg|_ |tueAM3flgV|_ | |tueAM3hud|_ |tueAM3hudV|_ |                            |
+| Morning (11:45-12:30) | |tueAM3flg|_ |tueAM3flgV|_ | |tueAM3hud|  |tueAM3hudV|_ |                            |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Afternoon (2:30-4:00) | |tuePM0flg|_ |tuePM0flgV|_ | |tuePM0hud|_ |tuePM0hudV|_ | |tuePM0bet|_ |tuePM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (4:30-6:00) | |tuePM2flg|_ |tuePM2flgV|_ | |tuePM2hud|_ |tuePM2hudV|_ | |tuePM2bet|_ |tuePM2betV|_ |
+| Afternoon (4:30-6:00) | |tuePM2flg|_ |tuePM2flgV|_ | |tuePM2hud|  |tuePM2hudV|_ | |tuePM2bet|_ |tuePM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
 
@@ -52,13 +52,13 @@ Wednesday, May 09
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (9:00-10:30)  | |wedAM0flg|_ |wedAM0flgV|_ | |wedAM0hud|_ |wedAM0hudV|_ | |wedAM0bet|_ |wedAM0betV|_ |
+| Morning (9:00-10:30)  | |wedAM0flg|_ |wedAM0flgV|_ | |wedAM0hud|  |wedAM0hudV|_ | |wedAM0bet|_ |wedAM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Morning (11:00-12:30) | |wedAM2flg|_ |wedAM2flgV|_ | |wedAM2hud|_ |wedAM2hudV|_ | |wedAM2bet|_ |wedAM2betV|_ |
+| Morning (11:00-12:30) | |wedAM2flg|  |wedAM2flgV|_ | |wedAM2hud|_ |wedAM2hudV|_ | |wedAM2bet|  |wedAM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (2:30-4:00) | |wedPM0flg|_ |wedPM0flgV|_ | |wedPM0hud|_ |wedPM0hudV|_ | |wedPM0bet|_ |wedPM0betV|_ |
+| Afternoon (2:30-4:00) | |wedPM0flg|_ |wedPM0flgV|_ | |wedPM0hud|  |wedPM0hudV|_ | |wedPM0bet|_ |wedPM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (4:30-6:00) | |wedPM2flg|_ |wedPM2flgV|_ | |wedPM2hud|_ |wedPM2hudV|_ | |wedPM2bet|_ |wedPM2betV|_ |
+| Afternoon (4:30-6:00) | |wedPM2flg|  |wedPM2flgV|_ | |wedPM2hud|_ |wedPM2hudV|_ | |wedPM2bet|  |wedPM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
 
@@ -198,7 +198,7 @@ Wednesday
 .. |tuePM0hudV| replace:: (video)
 .. _tuePM0hudV: 
 .. |tuePM0bet| replace:: Smart Output Iterators, *Jonathan Boccara*
-.. _tuePM0bet: 05-08-2018_tuesday/smart_output_iterators__Jonathan Boccara__cppnow_05082018.pdf
+.. _tuePM0bet: 05-08-2018_tuesday/smart_output_iterators__jonathan_boccara__cppnow_05082018.pdf
 .. |tuePM0betV| replace:: (video)
 .. _tuePM0betV: 
 
