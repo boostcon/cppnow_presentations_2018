@@ -56,7 +56,7 @@ Wednesday, May 09
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Morning (11:00-12:30) | |wedAM2flg|  |wedAM2flgV|_ | |wedAM2hud|_ |wedAM2hudV|_ | |wedAM2bet|  |wedAM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (2:30-4:00) | |wedPM0flg|_ |wedPM0flgV|_ | |wedPM0hud|  |wedPM0hudV|_ | |wedPM0bet|_ |wedPM0betV|_ |
+| Afternoon (2:30-4:00) | |wedPM0flg|  |wedPM0flgV|_ | |wedPM0hud|  |wedPM0hudV|_ | |wedPM0bet|_ |wedPM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Afternoon (4:30-6:00) | |wedPM2flg|  |wedPM2flgV|_ | |wedPM2hud|_ |wedPM2hudV|_ | |wedPM2bet|  |wedPM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
@@ -68,15 +68,15 @@ Thursday, May 10
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (9:00-10:30)  | |thuAM0flg|_ |thuAM0flgV|_ | |thuAM0hud|_ |thuAM0hudV|_ | |thuAM0bet|_ |thuAM0betV|_ |
+| Morning (9:00-10:30)  | |thuAM0flg|_ |thuAM0flgV|_ | |thuAM0hud|  |thuAM0hudV|_ | |thuAM0bet|_ |thuAM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Morning (11:00-11:45) | |thuAM2flg|_ |thuAM2flgV|_ | |thuAM2hud|_ |thuAM2hudV|_ | |thuAM2bet|_ |thuAM2betV|_ |
+| Morning (11:00-11:45) | |thuAM2flg|_ |thuAM2flgV|_ | |thuAM2hud|_ |thuAM2hudV|_ | |thuAM2bet|  |thuAM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Morning (11:45-12:30) | |thuAM3flg|_ |thuAM3flgV|_ | |thuAM3hud|_ |thuAM3hudV|_ |                            |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (2:30-4:00) | |thuPM0flg|_ |thuPM0flgV|_ | |thuPM0hud|_ |thuPM0hudV|_ | |thuPM0bet|_ |thuPM0betV|_ |
+| Afternoon (2:30-4:00) | |thuPM0flg|_ |thuPM0flgV|_ | |thuPM0hud|  |thuPM0hudV|_ | |thuPM0bet|  |thuPM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (4:30-6:00) | |thuPM2flg|_ |thuPM2flgV|_ | |thuPM2hud|_ |thuPM2hudV|_ | |thuPM2bet|_ |thuPM2betV|_ |
+| Afternoon (4:30-6:00) | |thuPM2flg|  |thuPM2flgV|_ | |thuPM2hud|_ |thuPM2hudV|_ | |thuPM2bet|  |thuPM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
 
