@@ -198,7 +198,7 @@ Wednesday
 .. |tuePM0hudV| replace:: (video)
 .. _tuePM0hudV: 
 .. |tuePM0bet| replace:: Smart Output Iterators, *Jonathan Boccara*
-.. _tuePM0bet: 
+.. _tuePM0bet: 05-08-2018_tuesday/smart_output_iterators__Jonathan Boccara__cppnow_05082018.pdf
 .. |tuePM0betV| replace:: (video)
 .. _tuePM0betV: 
 
@@ -290,7 +290,7 @@ Wednesday
 .. |thuAM2flgV| replace:: (video)
 .. _thuAM2flgV: 
 .. |thuAM2hud| replace:: -Os Matters, *Mark Zeren*
-.. _thuAM2hud: 
+.. _thuAM2hud: 05-10-2018_thursday/os_matters__mark_zeren__cppnow_05102018.pdf
 .. |thuAM2hudV| replace:: (video)
 .. _thuAM2hudV: 
 .. |thuAM2bet| replace:: From Parsing to sema: Making Sense of Syntax Trees, *Michał Dominiak*
