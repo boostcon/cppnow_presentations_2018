@@ -141,7 +141,7 @@ Wednesday
 .. |monPM2flg| replace:: C++17's std::pmr Comes With a Cost, *David Sankel*
 .. _monPM2flg: 
 .. |monPM2flgV| replace:: (video)
-.. _monPM2flgV: 
+.. _monPM2flgV: https://youtu.be/FLbXjNrAjbc
 .. |monPM2hud| replace:: Beyond C++17, *Mateusz Pusz*
 .. _monPM2hud: 05-07-2018_monday/beyond_cpp17__mateusz_pusz__cppnow_05072018.pdf
 .. |monPM2hudV| replace:: (video)
@@ -218,18 +218,18 @@ Wednesday
 
 .. Wednesday, May 09
 
-.. |wedAM0flg| replace:: If I Had My 'Druthers: A Proposal for Improving the Containers in C++, *Bob Steagall*
+.. |wedAM0flg| replace:: If I Had My 'Druthers: Some Thoughts on Improving the Containers in C++2x, *Bob Steagall*
 .. _wedAM0flg: 05-09-2018_wednesday/if_i_had_my__druthers__some_thoughts_on_improving_the_containers_in_cpp2x__bob_steagall__cppnow_05092018.pdf
 .. |wedAM0flgV| replace:: (video)
-.. _wedAM0flgV: 
+.. _wedAM0flgV: https://youtu.be/bAE0qteS4Rk
 .. |wedAM0hud| replace:: Words of Wisdom, *Tony Van Eerd*
 .. _wedAM0hud: 
 .. |wedAM0hudV| replace:: (video)
 .. _wedAM0hudV: 
-.. |wedAM0bet| replace:: Game Engine API Design, *Allan Deustch*
+.. |wedAM0bet| replace:: Game Engine API Design, *Allan Deutsch*
 .. _wedAM0bet: 
 .. |wedAM0betV| replace:: (video)
-.. _wedAM0betV: 
+.. _wedAM0betV: https://youtu.be/W3ViIBnTTKA
 
 .. |wedAM2flg| replace:: Rethinking Pointers, *Jonathan Müller*
 .. _wedAM2flg: 
