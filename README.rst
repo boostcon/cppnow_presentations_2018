@@ -225,7 +225,7 @@ Wednesday
 .. |wedAM0hud| replace:: Words of Wisdom, *Tony Van Eerd*
 .. _wedAM0hud: 
 .. |wedAM0hudV| replace:: (video)
-.. _wedAM0hudV: 
+.. _wedAM0hudV: https://youtu.be/l2NsHY_ohHI
 .. |wedAM0bet| replace:: Game Engine API Design, *Allan Deutsch*
 .. _wedAM0bet: 
 .. |wedAM0betV| replace:: (video)
@@ -234,7 +234,7 @@ Wednesday
 .. |wedAM2flg| replace:: Rethinking Pointers, *Jonathan Müller*
 .. _wedAM2flg: 
 .. |wedAM2flgV| replace:: (video)
-.. _wedAM2flgV: 
+.. _wedAM2flgV: https://youtu.be/kYiEvVEh6Tw
 .. |wedAM2hud| replace:: Design and Implementation of DBMS Asynchronous Client Library with C++17, Boost.Hana and Boost.Asio, *Roman Siromakha*
 .. _wedAM2hud: 05-09-2018_wednesday/design_and_implementation_of_dbms_asynchronous_client_library__roman_siromakha__cppnow_05092018.pdf
 .. |wedAM2hudV| replace:: (video)
@@ -275,7 +275,7 @@ Wednesday
 .. |thuAM0flg| replace:: Easy to Use, Hard to Misuse - Declarative Style in C++, *Ben Deane*
 .. _thuAM0flg: 05-10-2018_thursday/easy_to_use_hard_to_misuse__declarative_style_in_cpp__ben_deane__cppnow_05102018.pdf
 .. |thuAM0flgV| replace:: (video)
-.. _thuAM0flgV: 
+.. _thuAM0flgV: https://youtu.be/2ouxETt75R4
 .. |thuAM0hud| replace:: yomm2: Fast, Orthogonal, Open Methods in a Library, *Jean-Loius Leroy*
 .. _thuAM0hud: 
 .. |thuAM0hudV| replace:: (video)
@@ -283,7 +283,7 @@ Wednesday
 .. |thuAM0bet| replace:: The Problem with "Cutting Edge C++", *Jens Weller*
 .. _thuAM0bet: 05-10-2018_thursday/the_problem_with_cutting_edge_cpp__jens_weller__cppnow_05102018.pdf
 .. |thuAM0betV| replace:: (video)
-.. _thuAM0betV: 
+.. _thuAM0betV: https://youtu.be/T7RhxjB5sSg
 
 .. |thuAM2flg| replace:: A View to a View, *Peter Bindels*
 .. _thuAM2flg: 05-10-2018_thursday/a_view_to_a_view__peter_bindles__cppnow_05102018.pdf
