@@ -22,9 +22,9 @@ Monday, May 07
 +=======================+============================+============================+============================+
 | Morning (11:00-12:30) | |monAM2flg|_ |monAM2flgV|_ | |monAM2hud|_ |monAM2hudV|_ | |monAM2bet|_ |monAM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (2:30-4:00) | |monPM0flg|_ |monPM0flgV|_ | |monPM0hud|_ |monPM0hudV|_ | |monPM0bet|  |monPM0betV|_ |
+| Afternoon (2:30-4:00) | |monPM0flg|_ |monPM0flgV|_ | |monPM0hud|_ |monPM0hudV|_ | |monPM0bet|_ |monPM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (4:30-6:00) | |monPM2flg|  |monPM2flgV|_ | |monPM2hud|_ |monPM2hudV|_ | |monPM2bet|  |monPM2betV|_ |
+| Afternoon (4:30-6:00) | |monPM2flg|  |monPM2flgV|_ | |monPM2hud|_ |monPM2hudV|_ | |monPM2bet|_ |monPM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
 
@@ -147,7 +147,7 @@ Wednesday
 .. |monPM2hudV| replace:: (video)
 .. _monPM2hudV: https://youtu.be/y7PBciQp0B8
 .. |monPM2bet| replace:: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2 of 2), *Zach Laine*
-.. _monPM2bet: 
+.. _monPM2bet: 05-07-2018_monday/boost_text_fixing_std_string_and_adding_unicode_to_standard_cpp__zach_laine__cppnow_2018__05072018.pdf
 .. |monPM2betV| replace:: (video)
 .. _monPM2betV: https://youtu.be/GJ2xMAqCZL8
 
@@ -157,15 +157,15 @@ Wednesday
 .. |tueAM0flg| replace:: Fancy Pointers for Fun and Profit, *Bob Steagall*
 .. _tueAM0flg: 05-08-2018_tuesday/fancy_pointers_for_fun_and_profit__bob_steagall__cppnow_05082018.pdf
 .. |tueAM0flgV| replace:: (video)
-.. _tueAM0flgV: 
+.. _tueAM0flgV: https://youtu.be/Uwe2gXNMeG4
 .. |tueAM0hud| replace:: The Best Type Traits C++ Doesn't Have, *Arthur O'Dwyer*
 .. _tueAM0hud: 05-08-2018_tuesday/the_best_type_traits__arthur_o_dwyer__cppnow_05082018.pdf
 .. |tueAM0hudV| replace:: (video)
-.. _tueAM0hudV: 
+.. _tueAM0hudV: https://youtu.be/MWBfmmg8-Yo
 .. |tueAM0bet| replace:: The Continuing Saga of the Lock-Free Queue: Part 3 of N, *Tony Van Eerd*
 .. _tueAM0bet: 
 .. |tueAM0betV| replace:: (video)
-.. _tueAM0betV: 
+.. _tueAM0betV: https://youtu.be/mu6XB-WRNxs
 
 .. |tueAM2flg| replace:: Git, CMake, Conan: How to Ship and Reuse our C++ Projects, *Mateusz Pusz*
 .. _tueAM2flg: 05-08-2018_tuesday/git_cmake_conan__how_to_ship_and_reuse_our_cpp_projects__mateusz_pusz__cppnow_05202018.pdf
@@ -178,7 +178,7 @@ Wednesday
 .. |tueAM2bet| replace:: Boost.TMP: Your DSL for Metaprogramming, *Odin Holmes*
 .. _tueAM2bet: 
 .. |tueAM2betV| replace:: (video)
-.. _tueAM2betV: 
+.. _tueAM2betV: https://youtu.be/WRTjLPJTcgA
 
 .. |tueAM3flg| replace:: Docker Based C++ Dependency and Build Management, *Jason Rice*
 .. _tueAM3flg: 05-08-2018_tuesday/cppdock__docker_based_cpp_dependency_and_build_management__jason_rice__cppnow_05082018.pdf
@@ -196,7 +196,7 @@ Wednesday
 .. |tuePM0hud| replace:: The Julia Language and C++: The Perfect Marriage? *Keno Fischer, Bart Janssens*
 .. _tuePM0hud: 05-08-2018_tuesday/the_julia_language_and_cpp__bart_janssens__cppnow__05082018.pdf
 .. |tuePM0hudV| replace:: (video)
-.. _tuePM0hudV: 
+.. _tuePM0hudV: https://youtu.be/hvnxY3NjHQ4
 .. |tuePM0bet| replace:: Smart Output Iterators, *Jonathan Boccara*
 .. _tuePM0bet: 05-08-2018_tuesday/smart_output_iterators__jonathan_boccara__cppnow_05082018.pdf
 .. |tuePM0betV| replace:: (video)
