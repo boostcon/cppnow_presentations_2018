@@ -134,7 +134,7 @@ Wednesday
 .. |monPM0hudV| replace:: (video)
 .. _monPM0hudV: https://youtu.be/UalTAQmP3iE
 .. |monPM0bet| replace:: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1 of 2), *Zach Laine*
-.. _monPM0bet: 
+.. _monPM0bet: 05-07-2018_monday/boost_text_fixing_std_string_and_adding_unicode_to_standard_cpp__zach_laine__cppnow_2018__05072018.pdf
 .. |monPM0betV| replace:: (video)
 .. _monPM0betV: https://youtu.be/944GjKxwMBo
 
