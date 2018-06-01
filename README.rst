@@ -288,15 +288,15 @@ Wednesday
 .. |thuAM2flg| replace:: A View to a View, *Peter Bindels*
 .. _thuAM2flg: 05-10-2018_thursday/a_view_to_a_view__peter_bindles__cppnow_05102018.pdf
 .. |thuAM2flgV| replace:: (video)
-.. _thuAM2flgV: 
+.. _thuAM2flgV: https://youtu.be/T1WjKvLJGxg
 .. |thuAM2hud| replace:: -Os Matters, *Mark Zeren*
 .. _thuAM2hud: 05-10-2018_thursday/os_matters__mark_zeren__cppnow_05102018.pdf
 .. |thuAM2hudV| replace:: (video)
-.. _thuAM2hudV: 
+.. _thuAM2hudV: https://youtu.be/vGV5u1nxqd8
 .. |thuAM2bet| replace:: From Parsing to sema: Making Sense of Syntax Trees, *Michał Dominiak*
 .. _thuAM2bet: 
 .. |thuAM2betV| replace:: (video)
-.. _thuAM2betV: 
+.. _thuAM2betV: https://youtu.be/YiGbMdIMAr4
 
 .. |thuAM3flg| replace:: Debug C++ Without Running, *Anastasia Kazakova*
 .. _thuAM3flg: 05-10-2018_thursday/debug_cpp_w_o_running__anastasia_kazakova__cppnow_05102018.pdf
