@@ -305,16 +305,16 @@ Wednesday
 .. |thuAM3hud| replace:: Making Your Library More Reliable with Fuzzing, *Marshall Clow*
 .. _thuAM3hud: 05-10-2018_thursday/making_your_library_more_reliable_with_fuzzing__marshall_clow__cppnow_05182018.pdf
 .. |thuAM3hudV| replace:: (video)
-.. _thuAM3hudV: 
+.. _thuAM3hudV: https://youtu.be/LlLJRHToyUk
 
 .. |thuPM0flg| replace:: Modern C++ in Embedded Systems, *Michael Caisse*
 .. _thuPM0flg: 05-10-2018_thursday/modern_cpp_in_an_embedded_world__michael_caisse__cpnow_05102018.pdf
 .. |thuPM0flgV| replace:: (video)
-.. _thuPM0flgV: 
+.. _thuPM0flgV: https://youtu.be/c9Xt6Me3mJ4
 .. |thuPM0hud| replace:: My Little \*this Deduction: Friendship is ... Uniform?, *Gašper Ažman*
 .. _thuPM0hud: 
 .. |thuPM0hudV| replace:: (video)
-.. _thuPM0hudV: 
+.. _thuPM0hudV: https://www.youtube.com/watch?v=yB4E-SzQPdI
 .. |thuPM0bet| replace:: Secure Coding Best Practices: Your First Line Is The Last Line Of Defense, *Matthew Buttler*
 .. _thuPM0bet: 
 .. |thuPM0betV| replace:: (video)
@@ -327,7 +327,7 @@ Wednesday
 .. |thuPM2hud| replace:: Compile Fast, Run Faster, Scale Forever - a Look into the sol2 Libary, *ThePhD*
 .. _thuPM2hud: 05-10-2018_thursday/compile_fast_run_faster_scale_forever__a_look_into_the_sol2_library__thephd__cppnow_05102018.pdf
 .. |thuPM2hudV| replace:: (video)
-.. _thuPM2hudV: 
+.. _thuPM2hudV: https://youtu.be/0Lwy4_sKeJM
 .. |thuPM2bet| replace:: C++ Development with Visual Studio Code, *Rong Lu*
 .. _thuPM2bet: 
 .. |thuPM2betV| replace:: (video)
