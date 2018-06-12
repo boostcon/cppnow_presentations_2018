@@ -334,7 +334,7 @@ Lightning Talks
 .. _thuAM0flg: 05-10-2018_thursday/easy_to_use_hard_to_misuse__declarative_style_in_cpp__ben_deane__cppnow_05102018.pdf
 .. |thuAM0flgV| replace:: (video)
 .. _thuAM0flgV: https://youtu.be/2ouxETt75R4
-.. |thuAM0hud| replace:: yomm2: Fast, Orthogonal, Open Methods in a Library, *Jean-Loius Leroy*
+.. |thuAM0hud| replace:: yomm2: Fast, Orthogonal, Open Methods in a Library, *Jean-Louis Leroy*
 .. _thuAM0hud: 
 .. |thuAM0hudV| replace:: (video)
 .. _thuAM0hudV: https://youtu.be/rm82LBpyXjM
@@ -432,7 +432,7 @@ Lightning Talks
 .. |lightning04V| replace:: (video)
 .. _lightning04V: https://youtu.be/pknpnYA9pI0
 
-.. |lightning05| replace:: Code Generation: The Lisp Way, *Jean-Loius Leroy*
+.. |lightning05| replace:: Code Generation: The Lisp Way, *Jean-Louis Leroy*
 .. _lightning05: 
 .. |lightning05V| replace:: (video)
 .. _lightning05V: https://youtu.be/bT11fx2BpEc
