@@ -106,69 +106,65 @@ Lightning Talks
 +------------------------+-------------------+
 | |lightning03|_         | |lightning03V|_   |
 +------------------------+-------------------+
-| |lightning04|_         | |lightning04V|_   |
+| |lightning04|          | |lightning04V|_   |
 +------------------------+-------------------+
-| |lightning05|_         | |lightning05V|_   |
+| |lightning05|          | |lightning05V|_   |
 +------------------------+-------------------+
-| |lightning06|_         | |lightning06V|_   |
+| |lightning06|          | |lightning06V|_   |
 +------------------------+-------------------+
-| |lightning07|_         | |lightning07V|_   |
+| |lightning07|          | |lightning07V|_   |
 +------------------------+-------------------+
-| |lightning08|_         | |lightning08V|_   |
+| |lightning08|          | |lightning08V|_   |
 +------------------------+-------------------+
-| |lightning09|_         | |lightning09V|_   |
+| |lightning09|          | |lightning09V|_   |
 +------------------------+-------------------+
-| |lightning10|_         | |lightning10V|_   |
+| |lightning10|          | |lightning10V|_   |
 +------------------------+-------------------+
-| |lightning11|_         | |lightning11V|_   |
+| |lightning11|          | |lightning11V|_   |
 +------------------------+-------------------+
-| |lightning12|_         | |lightning12V|_   |
+| |lightning12|          | |lightning12V|_   |
 +------------------------+-------------------+
-| |lightning13|_         | |lightning13V|_   |
+| |lightning13|          | |lightning13V|_   |
 +------------------------+-------------------+
-| |lightning14|_         | |lightning14V|_   |
+| |lightning14|          | |lightning14V|_   |
 +------------------------+-------------------+
-| |lightning15|_         | |lightning15V|_   |
+| |lightning16|          | |lightning16V|_   |
 +------------------------+-------------------+
-| |lightning16|_         | |lightning16V|_   |
+| |lightning17|          | |lightning17V|_   |
 +------------------------+-------------------+
-| |lightning17|_         | |lightning17V|_   |
+| |lightning19|          | |lightning19V|_   |
 +------------------------+-------------------+
-| |lightning18|_         | |lightning18V|_   |
+| |lightning20|          | |lightning20V|_   |
 +------------------------+-------------------+
-| |lightning19|_         | |lightning19V|_   |
+| |lightning21|          | |lightning21V|_   |
 +------------------------+-------------------+
-| |lightning20|_         | |lightning20V|_   |
+| |lightning22|          | |lightning22V|_   |
 +------------------------+-------------------+
-| |lightning21|_         | |lightning21V|_   |
+| |lightning23|          | |lightning23V|_   |
 +------------------------+-------------------+
-| |lightning22|_         | |lightning22V|_   |
+| |lightning24|          | |lightning24V|_   |
 +------------------------+-------------------+
-| |lightning23|_         | |lightning23V|_   |
+| |lightning25|          | |lightning25V|_   |
 +------------------------+-------------------+
-| |lightning24|_         | |lightning24V|_   |
+| |lightning26|          | |lightning26V|_   |
 +------------------------+-------------------+
-| |lightning25|_         | |lightning25V|_   |
+| |lightning27|          | |lightning27V|_   |
 +------------------------+-------------------+
-| |lightning26|_         | |lightning26V|_   |
+| |lightning28|          | |lightning28V|_   |
 +------------------------+-------------------+
-| |lightning27|_         | |lightning27V|_   |
+| |lightning29|          | |lightning29V|_   |
 +------------------------+-------------------+
-| |lightning28|_         | |lightning28V|_   |
+| |lightning30|          | |lightning30V|_   |
 +------------------------+-------------------+
-| |lightning29|_         | |lightning29V|_   |
+| |lightning31|          | |lightning31V|_   |
 +------------------------+-------------------+
-| |lightning30|_         | |lightning30V|_   |
+| |lightning32|          | |lightning32V|_   |
 +------------------------+-------------------+
-| |lightning31|_         | |lightning31V|_   |
+| |lightning33|          | |lightning33V|_   |
 +------------------------+-------------------+
-| |lightning32|_         | |lightning32V|_   |
+| |lightning34|          | |lightning34V|_   |
 +------------------------+-------------------+
-| |lightning33|_         | |lightning33V|_   |
-+------------------------+-------------------+
-| |lightning34|_         | |lightning34V|_   |
-+------------------------+-------------------+
-| |lightning35|_         | |lightning35V|_   |
+| |lightning35|          | |lightning35V|_   |
 +------------------------+-------------------+
 
 
@@ -418,3 +414,147 @@ Lightning Talks
 .. _friAM2pae: 
 .. |friAM2paeV| replace:: (video)
 .. _friAM2paeV: https://youtu.be/McpMfeEJf2w
+
+
+.. Lightning Talks
+
+.. |lightning00| replace:: Easing into Modern C++, *Ben Deane*
+.. _lightning00: lightning_talks/easing_into_modern_cpp__ben_deane__cppnow_05072018.pdf
+.. |lightning00V| replace:: (video)
+.. _lightning00V: https://youtu.be/lheIZOdAYD4
+
+.. |lightning01| replace:: Where Should I Belong?, *ThePhD*
+.. _lightning01: lightning_talks/we_are_glad_you_are_here__jeanheyd_meneide__cppnow_05072018.pdf
+.. |lightning01V| replace:: (video)
+.. _lightning01V: https://youtu.be/Vl8OK1hDYUg
+
+.. |lightning02| replace:: Loop Exit Blocks: A proposal for C++20, *Alan Talbot*
+.. _lightning02: lightning_talks/loop_exit__alan_talbot__cppnow_05072018.pdf
+.. |lightning02V| replace:: (video)
+.. _lightning02V: https://youtu.be/4s3E8yVtSXE
+
+.. |lightning03| replace:: Improving Debuggability with GDB's Python API, *Jeff Trull*
+.. _lightning03: lightning_talks/improving_debuggability_with_gdbs_python_api__jeff_trull__cppnow_05072018.pdf
+.. |lightning03V| replace:: (video)
+.. _lightning03V: https://youtu.be/mLPp1x_1h3g
+
+.. |lightning04| replace:: Enums For Ways, *Wissam Mehio*
+.. _lightning04: 
+.. |lightning04V| replace:: (video)
+.. _lightning04V: https://youtu.be/pknpnYA9pI0
+
+.. |lightning05| replace:: Code Generation: The Lisp Way, *Jean-Loius Leroy*
+.. _lightning05: 
+.. |lightning05V| replace:: (video)
+.. _lightning05V: https://youtu.be/bT11fx2BpEc
+
+.. |lightning06| replace:: Copy Elision, *Jon Kalb*
+.. _lightning06: 
+.. |lightning06V| replace:: (video)
+.. _lightning06V: https://youtu.be/fSB57PiXpRw
+
+.. |lightning07| replace:: Placement New, *Jonathan Müller*
+.. _lightning07: 
+.. |lightning07V| replace:: (video)
+.. _lightning07V: https://youtu.be/kyK1lTwADYg
+
+.. |lightning08| replace:: 11 Years of Boost at Conservancy, *Bradley Kuhn*
+.. _lightning08: 
+.. |lightning08V| replace:: (video)
+.. _lightning08V: https://youtu.be/CBl4UsbUjNU
+
+.. |lightning09| replace:: Workflow Modeling with Boost.Graph Library, *Philip Salvaggio*
+.. _lightning09: 
+.. |lightning09V| replace:: (video)
+.. _lightning09V: https://youtu.be/OLP6HWpBkXM
+
+.. |lightning10| replace:: Lightning Talk, *Odin Holmes*
+.. _lightning10: 
+.. |lightning10V| replace:: (video)
+.. _lightning10V: https://youtu.be/RMvazscApWw
+
+.. |lightning11| replace:: Avoiding Virtual Call in CRTP, *Daniel Dilts*
+.. _lightning11: 
+.. |lightning11V| replace:: (video)
+.. _lightning11V: https://youtu.be/0hy3DhE5pIo
+
+.. |lightning12| replace:: SFINAE: Substitution Failure Is Not An Error, *Agustín Bergé*
+.. _lightning12: 
+.. |lightning12V| replace:: (video)
+.. _lightning12V: https://youtu.be/40HTly0lt4s
+
+.. |lightning13| replace:: C++ Puzzler, *Leor Zolman*
+.. _lightning13: 
+.. |lightning13V| replace:: (video)
+.. _lightning13V: https://youtu.be/kLZRDT3XHmc
+
+.. |lightning14| replace:: Puzzler, *Leor Zolman*
+.. _lightning14: 
+.. |lightning14V| replace:: (video)
+.. _lightning14V: https://youtu.be/_1kXvS_A3hc
+
+.. |lightning16| replace:: C++ Potpurri 2, *Richard Powell*
+.. _lightning16: 
+.. |lightning16V| replace:: (video)
+.. _lightning16V: https://youtu.be/J--cJlhYEAI
+
+.. |lightning17| replace:: An allocator is a handle to a heap, *Arthur O'Dwyer*
+.. _lightning17: 
+.. |lightning17V| replace:: (video)
+.. _lightning17V: https://youtu.be/j9HsT7o8Suc
+
+.. |lightning19| replace:: ForTransformers vs deCeePeePeeticons, *Tobias Loew*
+.. _lightning19: 
+.. |lightning19V| replace:: (video)
+.. _lightning19V: https://youtu.be/YBqYHtf9Sw0
+
+.. |lightning20| replace:: C++ Execution Model in Five Minutes, *Bryce Adelstein Lelbach*
+.. _lightning20: 
+.. |lightning20V| replace:: (video)
+.. _lightning20V: https://youtu.be/lrG0C1Ugdz4
+
+.. |lightning21| replace:: Talk to me! The art of reporting a Bug, *Anastasia Kazakova*
+.. _lightning21: 
+.. |lightning21V| replace:: (video)
+.. _lightning21V: https://youtu.be/0R-WJ3-2W2M
+
+.. |lightning22| replace:: Poetry Club, *ThePhD*
+.. _lightning22: lightning_talks/poetry__jeanheyd_meneide__cppnow_05072018.pdf
+.. |lightning22V| replace:: (video)
+.. _lightning22V: https://youtu.be/EG5v7CSmO3s
+
+.. |lightning23| replace:: Intentionally Left Nonblank, *Marcel Ebmer*
+.. _lightning23: 
+.. |lightning23V| replace:: (video)
+.. _lightning23V: https://youtu.be/0_k-2Nil2XI
+
+.. |lightning24| replace:: C++ Reflection via Clang LibTooling, *Griffin Downs*
+.. _lightning24: 
+.. |lightning24V| replace:: (video)
+.. _lightning24V: https://youtu.be/cj3dL_ngCBk
+
+.. |lightning25| replace:: The Object Upside Down, *Louis Dionne*
+.. _lightning25: 
+.. |lightning25V| replace:: (video)
+.. _lightning25V: https://youtu.be/yTb6xz_FSkY
+
+.. |lightning26| replace:: We have always been at war with West Constia, *Phil Nash*
+.. _lightning26: 
+.. |lightning26V| replace:: (video)
+.. _lightning26V: https://youtu.be/Ci4xOvOvAWo
+
+.. |lightning27| replace:: This is Why We Can't have Nice Things, *Jon Kalb*
+.. _lightning27: 
+.. |lightning27V| replace:: (video)
+.. _lightning27V: https://youtu.be/fovPSk8ixK4
+
+.. |lightning28| replace:: A Fool's Consistency, *Jonathan Müller*
+.. _lightning28: 
+.. |lightning28V| replace:: (video)
+.. _lightning28V: https://youtu.be/_27NHB1OlNI
+
+.. |lightning29| replace:: Ø, *Serj Bilokhatniuk*
+.. _lightning29: 
+.. |lightning29V| replace:: (video)
+.. _lightning29V: https://youtu.be/6uon_MtpcwE
+
