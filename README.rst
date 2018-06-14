@@ -512,7 +512,7 @@ Lightning Talks
 .. |lightning22V| replace:: (video)
 .. _lightning22V: https://youtu.be/EG5v7CSmO3s
 
-.. |lightning23| replace:: Intentionally Left Nonblank, *Marcel Ebmer*
+.. |lightning23| replace:: for_each_adjacent<N>, *Marcel Ebmer*
 .. _lightning23: 
 .. |lightning23V| replace:: (video)
 .. _lightning23V: https://youtu.be/0_k-2Nil2XI
