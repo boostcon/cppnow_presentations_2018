@@ -14,7 +14,7 @@ Monday, May 07
 +-----------------------+----------------------------+
 |                       | Paepcke                    |
 +=======================+============================+
-| Morning (9:00-10:30)  | |monAM0pae|  |monAM0paeV|_ |
+| Morning (9:00-10:30)  | |monAM0pae|_ |monAM0paeV|_ |
 +-----------------------+----------------------------+
 
 +-----------------------+----------------------------+----------------------------+----------------------------+
@@ -165,7 +165,7 @@ Lightning Talks
 .. Monday, May 07
 
 .. |monAM0pae| replace:: Opening Keynote: The Shape of a Program, *Lisa Lippincott*
-.. _monAM0pae: 
+.. _monAM0pae: 05-07-2018_monday/the_shape_of_a_program__lisa_lippincott__cppnow_05072018.pdf
 .. |monAM0paeV| replace:: (video)
 .. _monAM0paeV: https://www.youtube.com/watch?v=QFIOE1jKv30
 
