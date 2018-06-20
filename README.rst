@@ -438,7 +438,7 @@ Lightning Talks
 .. _lightning05V: https://youtu.be/bT11fx2BpEc
 
 .. |lightning06| replace:: Copy Elision, *Jon Kalb*
-.. _lightning06: copy_elision__jon_kalb__cppnow_05092018.pdf
+.. _lightning06:  lightning_talks/copy_elision__jon_kalb__cppnow_05092018.pdf
 .. |lightning06V| replace:: (video)
 .. _lightning06V: https://youtu.be/fSB57PiXpRw
 
