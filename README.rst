@@ -221,7 +221,7 @@ Lightning Talks
 .. |tueAM0hudV| replace:: (video)
 .. _tueAM0hudV: https://youtu.be/MWBfmmg8-Yo
 .. |tueAM0bet| replace:: The Continuing Saga of the Lock-Free Queue: Part 3 of N, *Tony Van Eerd*
-.. _tueAM0bet: 
+.. _tueAM0bet: 05-08-2018_tuesday/the_continuing_saga_of_the_lockfree_queue__tony_van_eerd__cppnow_05082018.pdf
 .. |tueAM0betV| replace:: (video)
 .. _tueAM0betV: https://youtu.be/mu6XB-WRNxs
 
@@ -281,7 +281,7 @@ Lightning Talks
 .. |wedAM0flgV| replace:: (video)
 .. _wedAM0flgV: https://youtu.be/bAE0qteS4Rk
 .. |wedAM0hud| replace:: Words of Wisdom, *Tony Van Eerd*
-.. _wedAM0hud: 
+.. _wedAM0hud: 05-09-2018_wednesday/words_of_wisdom__tony_van_eerd__cppnow_05092018.pdf
 .. |wedAM0hudV| replace:: (video)
 .. _wedAM0hudV: https://youtu.be/l2NsHY_ohHI
 .. |wedAM0bet| replace:: Game Engine API Design, *Allan Deutsch*
