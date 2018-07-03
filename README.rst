@@ -265,7 +265,7 @@ Lightning Talks
 .. |tuePM2flgV| replace:: (video)
 .. _tuePM2flgV: https://youtu.be/J9yVA341zrw
 .. |tuePM2hud| replace:: Generative Programming & Declarative Interfaces: Emulating the Nintendo 3DS, *Tony Wasserka*
-.. _tuePM2hud: 
+.. _tuePM2hud: 05-08-2018_tuesday/generative_programming_and_declarative_interfaces__emulating_the_nintendo_3ds__tony_wasserka__cppnow_05082018.pdf
 .. |tuePM2hudV| replace:: (video)
 .. _tuePM2hudV: https://youtu.be/1qGksJWsfow
 .. |tuePM2bet| replace:: What Else has My Compiler Done for Me Lately? *Matt Godbolt*
