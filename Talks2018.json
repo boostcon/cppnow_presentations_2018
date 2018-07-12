@@ -1,0 +1,512 @@
+[
+    {
+        "speakers": "Lisa Lippincott",
+        "sched": "https://cppnow2018.sched.com/event/70ea726d2cee093cfedd7be9eaa9d691",
+        "room": "Paepcke",
+        "title": "The Shape of a Program",
+        "youtube": "https://www.youtube.com/watch?v=QFIOE1jKv30",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-07-2018_monday/the_shape_of_a_program__lisa_lippincott__cppnow_05072018.pdf",
+        "time": "9:00:00",
+        "date": "2018-05-07"
+    },
+    {
+        "speakers": "John Regehr",
+        "sched": "https://cppnow2018.sched.com/event/a2ef244bbbdb55018b0445a3f1233938",
+        "room": "Paepcke",
+        "title": "Undefined Behavior and Compiler Optimizations",
+        "youtube": "https://youtu.be/AeEwxtEOgH0",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-11-2018_friday/undefined_behavior_and_compiler_optimizations__john_regehr__cppnow__05112018.pdf",
+        "time": "9:00:00",
+        "date": "2018-05-11"
+    },
+    {
+        "speakers": "Mark Zeren",
+        "sched": "https://cppnow2018.sched.com/event/625634d1969b954e05efcd615be82326",
+        "room": "Hudson",
+        "title": "-Os Matters",
+        "youtube": "https://youtu.be/vGV5u1nxqd8",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-10-2018_thursday/os_matters__mark_zeren__cppnow_05102018.pdf",
+        "time": "11:00:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Charley Bay",
+        "sched": "https://cppnow2018.sched.com/event/38937b5965d8c11e1a25c5197867b774",
+        "room": "Hudson",
+        "title": "A Quantum Data Structure For Classical Computers",
+        "youtube": "https://youtu.be/Y2K82EVGxaI",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-07-2018_monday/a_quantum_data_structure_for_classical_computers__charley_bay__cppnow_2018__05072018.pdf",
+        "time": "11:00:00",
+        "date": "2018-05-07"
+    },
+    {
+        "speakers": "Peter Bindels",
+        "sched": "https://cppnow2018.sched.com/event/846263484042edf9dfbe08758aa152e9",
+        "room": "Flug",
+        "title": "A View to a View",
+        "youtube": "https://youtu.be/T1WjKvLJGxg",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-10-2018_thursday/a_view_to_a_view__peter_bindles__cppnow_05102018.pdf",
+        "time": "11:00:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Arthur O'Dwyer",
+        "sched": "https://cppnow2018.sched.com/event/767e288589eae513fb3afff01fbca567",
+        "room": "Flug",
+        "title": "An Allocator is a Handle to a Heap",
+        "youtube": "https://youtu.be/0MdSJsCTRkY",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-07-2018_monday/an_allocator_is_a_handle_to_a_heap__arthur_o_dywer__cppnow_05072018.pdf",
+        "time": "14:30:00",
+        "date": "2018-05-07"
+    },
+    {
+        "speakers": "Matt Calabrese",
+        "sched": "https://cppnow2018.sched.com/event/f44477b2450442dad0f67913dba4a45a",
+        "room": "Hudson",
+        "title": "Argot: Simplifying Variants, Tuples, and Futures",
+        "youtube": "https://youtu.be/pKVCB_Bzalk",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-09-2018_wednesday/argot_simplifying_variants_tuples_and_futures__matt_calabrese__cppnow_05092018.pdf",
+        "time": "16:30:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Mateusz Pusz",
+        "sched": "https://cppnow2018.sched.com/event/59f279b7d4ee43298a3eeca6fddf343d",
+        "room": "Hudson",
+        "title": "Beyond C++17",
+        "youtube": "https://youtu.be/y7PBciQp0B8",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-07-2018_monday/beyond_cpp17__mateusz_pusz__cppnow_05072018.pdf",
+        "time": "16:30:00",
+        "date": "2018-05-07"
+    },
+    {
+        "speakers": "Zach Laine",
+        "sched": "http://sched.co/EC6z",
+        "room": "Bethe",
+        "title": "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++",
+        "youtube": "https://youtu.be/944GjKxwMBo",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-07-2018_monday/boost_text_fixing_std_string_and_adding_unicode_to_standard_cpp__zach_laine__cppnow_2018__05072018.pdf",
+        "time": "14:30:00",
+        "date": "2018-05-07"
+    },
+    {
+        "speakers": "Rong Lu",
+        "sched": "https://cppnow2018.sched.com/event/d58774eb05393b71ed1e4ce082ed34bf",
+        "room": "Bethe",
+        "title": "C++ Development with Visual Studio Code",
+        "youtube": "https://youtu.be/-erXR6k9TeE",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Odin Holmes",
+        "sched": "https://cppnow2018.sched.com/event/6b6eaf36db921d4834aeec578d2163e6",
+        "room": "Flug",
+        "title": "C++ Mixins: Customization Through Compile Time Composition",
+        "youtube": "https://youtu.be/wWZi_wPyVvs",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018#monam2flg",
+        "time": "11:00:00",
+        "date": "2018-05-07"
+    },
+    {
+        "speakers": "David Sankel",
+        "sched": "https://cppnow2018.sched.com/event/625a2fcfbda11ebc63e25ff167372ee1",
+        "room": "Flug",
+        "title": "C++17's std::pmr Comes With a Cost",
+        "youtube": "https://youtu.be/FLbXjNrAjbc",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2018-05-07"
+    },
+    {
+        "speakers": "Jeff Hammond",
+        "sched": "https://cppnow2018.sched.com/event/43d60355a9ad4fb7abafc65bc12549ca",
+        "room": "",
+        "title": "Data Parallelism in C++: Evaluation of Performance Across a Wide Range of Implementations",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Matt Godbolt",
+        "sched": "https://cppnow2018.sched.com/event/43d60355a9ad4fb7abafc65bc12549ca",
+        "room": "Bethe",
+        "title": "Data Parallelism in C++: Evaluation of Performance Across a Wide Range of Implementations",
+        "youtube": "https://youtu.be/nAbCKa0FzjQ",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/what_else_has_my_compiler_done_for_me_lately__matt_godbolt__cppnow_05082018.pdf",
+        "time": "16:30:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Anastasia Kazakova",
+        "sched": "https://cppnow2018.sched.com/event/66ff01a368ae3b9b77b8d16a4e3547dc",
+        "room": "Flug",
+        "title": "Debug C++ Without Running",
+        "youtube": "https://youtu.be/8-tmVEong2k",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-10-2018_thursday/debug_cpp_w_o_running__anastasia_kazakova__cppnow_05102018.pdf",
+        "time": "11:50:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Roman Siromakha",
+        "sched": "https://cppnow2018.sched.com/event/4aa26b054f454df5dc252d82d9924628",
+        "room": "Hudson",
+        "title": "Design And Implementation Of DBMS Asynchronous Client Library with C++17, Boost.Hana and Boost.Asio",
+        "youtube": "https://youtu.be/-1zbaxuUsMA",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-09-2018_wednesday/design_and_implementation_of_dbms_asynchronous_client_library__roman_siromakha__cppnow_05092018.pdf",
+        "time": "11:00:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Jason Rice",
+        "sched": "https://cppnow2018.sched.com/event/dab8ca8636c584b3cdb350346bd02b85",
+        "room": "Flug",
+        "title": "Docker Based C++ Dependency and Build Management",
+        "youtube": "https://youtu.be/lmIc0MgWBEI",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/cppdock__docker_based_cpp_dependency_and_build_management__jason_rice__cppnow_05082018.pdf",
+        "time": "11:00:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Ben Deane",
+        "sched": "https://cppnow2018.sched.com/event/79038bc46b9c6e298cf4a4d56f2ea37d",
+        "room": "Flug",
+        "title": "Easy to Use, Hard to Misuse: Declarative Style in C++",
+        "youtube": "https://youtu.be/2ouxETt75R4",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-10-2018_thursday/easy_to_use_hard_to_misuse__declarative_style_in_cpp__ben_deane__cppnow_05102018.pdf",
+        "time": "09:00:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Bob Steagall",
+        "sched": "https://cppnow2018.sched.com/event/e8963fe82beb278b84a06eb56a638ec3",
+        "room": "Flug",
+        "title": "Fancy Pointers for Fun and Profit",
+        "youtube": "https://youtu.be/Uwe2gXNMeG4",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/fancy_pointers_for_fun_and_profit__bob_steagall__cppnow_05082018.pdf",
+        "time": "09:00:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Bob Steagall",
+        "sched": "https://cppnow2018.sched.com/event/19fd75bb132cad56261ba31ce930dd17",
+        "room": "Bethe",
+        "title": "Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics",
+        "youtube": "https://youtu.be/h5oczBeib_M",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-07-2018_monday/fast_conversion_from_utf8_with_cpp_dfas_and_sse_intrinsics__bob_steagall__cppnow_05072018.pdf",
+        "time": "11:00:00",
+        "date": "2018-05-07"
+    },
+    {
+        "speakers": "Tobias Loew",
+        "sched": "https://cppnow2018.sched.com/event/3d6e57cb44b4c89ef231256d35c5785f",
+        "room": "Hudson",
+        "title": "Fortransformers: A Field Study",
+        "youtube": "https://youtu.be/9jGPe1S17R0",
+        "slides": "",
+        "time": "11:50:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Micha\u0142 Dominiak",
+        "sched": "https://cppnow2018.sched.com/event/d6452d602f3fa2f81217def525a75d96",
+        "room": "Bethe",
+        "title": "From Parsing to sema: Making Sense of Syntax Trees",
+        "youtube": "https://youtu.be/YiGbMdIMAr4",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Vittorio Romeo",
+        "sched": "https://cppnow2018.sched.com/event/bb663f37a546ed673989662f67dcc82b",
+        "room": "Flug",
+        "title": "Futures Without Type Erasure",
+        "youtube": "https://youtu.be/Avvhs3PLP7o",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/futures_without_type_erasure__vittorio_romeo__cppnow_05082018.pdf",
+        "time": "14:30:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Allan Deutsch",
+        "sched": "https://cppnow2018.sched.com/event/6d8483556d7520623dff56ee72d35307",
+        "room": "Bethe",
+        "title": "Game Engine API Design",
+        "youtube": "https://youtu.be/W3ViIBnTTKA",
+        "slides": "",
+        "time": "09:00:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Jason Rice",
+        "sched": "https://cppnow2018.sched.com/event/2f709fcf3aa4985dda72f0641a518a23",
+        "room": "Hudson",
+        "title": "Generalized Full Duplex Messaging",
+        "youtube": "https://youtu.be/UalTAQmP3iE",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-07-2018_monday/generalized_full_duplex_messaging__jason_rice__cppnow_05072018.pdf",
+        "time": "14:30:00",
+        "date": "2018-05-07"
+    },
+    {
+        "speakers": "Tony Wasserka",
+        "sched": "https://cppnow2018.sched.com/event/f9a98d53e1940e97ef54ceb78b404c12",
+        "room": "Hudson",
+        "title": "Generative Programming in Action: Emulating the 3DS",
+        "youtube": "https://youtu.be/1qGksJWsfow",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/generative_programming_and_declarative_interfaces__emulating_the_nintendo_3ds__tony_wasserka__cppnow_05082018.pdf",
+        "time": "16:30:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Mateusz Pusz",
+        "sched": "https://cppnow2018.sched.com/event/270602eccb3e275fcfc54e4d0267d9ba",
+        "room": "Flug",
+        "title": "Git, CMake, Conan: How to Ship and Reuse our C++ Projects",
+        "youtube": "https://youtu.be/6sWec7b0JIc",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/git_cmake_conan__how_to_ship_and_reuse_our_cpp_projects__mateusz_pusz__cppnow_05202018.pdf",
+        "time": "11:00:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Michael Spencer",
+        "sched": "https://cppnow2018.sched.com/event/c68caffbfbb180d4c4b8908d739c74f0",
+        "room": "Hudson",
+        "title": "How Compilers Reason About Exceptions",
+        "youtube": "https://youtu.be/C4gpj-MDstY",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Bob Steagall",
+        "sched": "https://cppnow2018.sched.com/event/ec102c7cabeea1c91c5629bd6d926ca4",
+        "room": "Flug",
+        "title": "If I Had My 'Druthers: A Proposal for Improving the Containers in std2",
+        "youtube": "https://youtu.be/bAE0qteS4Rk",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-09-2018_wednesday/if_i_had_my__druthers__some_thoughts_on_improving_the_containers_in_cpp2x__bob_steagall__cppnow_05092018.pdf",
+        "time": "09:00:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Jason Turner",
+        "sched": "https://cppnow2018.sched.com/event/4058f00b8431f1610d3246f62066ac51",
+        "room": "Bethe",
+        "title": "Initializer Lists Are Broken, Let's Fix Them",
+        "youtube": "https://youtu.be/sSlmmZMFsXQ",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-09-2018_wednesday/initializer_lists_are_broken__jason_turner__cppnow_05092018.pdf",
+        "time": "14:30:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Marshall Clow",
+        "sched": "https://cppnow2018.sched.com/event/a30256e8ad0daeb7def3e1a49e19c990",
+        "room": "Hudson",
+        "title": "Making Your Library More Reliable with Fuzzing",
+        "youtube": "https://youtu.be/LlLJRHToyUk",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-10-2018_thursday/making_your_library_more_reliable_with_fuzzing__marshall_clow__cppnow_05182018.pdf",
+        "time": "11:50:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Titus Winters",
+        "sched": "https://cppnow2018.sched.com/event/593e9796afdddded34505f1bc066a14e",
+        "room": "Flug",
+        "title": "Modern C++ API Design: From Rvalue-References to Type Design",
+        "youtube": "https://youtu.be/2UmDvg5xv1U",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Michael Caisse",
+        "sched": "https://cppnow2018.sched.com/event/b6a2db667a4665668b48a91788183021",
+        "room": "Flug",
+        "title": "Modern C++ in Embedded Systems",
+        "youtube": "https://youtu.be/c9Xt6Me3mJ4",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-10-2018_thursday/modern_cpp_in_an_embedded_world__michael_caisse__cpnow_05102018.pdf",
+        "time": "14:30:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Alan Talbot",
+        "sched": "https://cppnow2018.sched.com/event/bcbd5aab935fbc1e8f457175d6910de2",
+        "room": "Flug",
+        "title": "Moving Faster: Everyday Efficiency in Modern C++",
+        "youtube": "https://youtu.be/J9yVA341zrw",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/moving_faster__everyday_efficiency_in_modern_cpp__cppnow_05082018.pdf",
+        "time": "16:30:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Ga\u0161per A\u017eman",
+        "sched": "https://cppnow2018.sched.com/event/ca6ecef90b087c70a239d8ec9410374e",
+        "room": "Hudson",
+        "title": "My Little *this Deduction: Friendship is ... Uniform?",
+        "youtube": "https://www.youtube.com/watch?v=yB4E-SzQPdI",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Phil Nash",
+        "sched": "https://cppnow2018.sched.com/event/8813faff04312ac2b9de8765f66ac407",
+        "room": "Bethe",
+        "title": "Option(al) Is Not a Failure",
+        "youtube": "https://youtu.be/OsRty0KNDZ0",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Jonathan M\u00fcller",
+        "sched": "https://cppnow2018.sched.com/event/b8b203648b64c45c0142a1b99d734a49",
+        "room": "Flug",
+        "title": "Rethinking Pointers",
+        "youtube": "https://youtu.be/kYiEvVEh6Tw",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Louis Dionne",
+        "sched": "https://cppnow2018.sched.com/event/512c7654dcef34be1043e2b337651c05",
+        "room": "Flug",
+        "title": "Runtime Polymorphism: Back to the Basics",
+        "youtube": "https://youtu.be/OtU51Ytfe04",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Matthew Butler",
+        "sched": "https://cppnow2018.sched.com/event/2a3e812ce602a022cb79da0058cc796c",
+        "room": "",
+        "title": "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense",
+        "youtube": "https://youtu.be/oW3rRfjWwUE",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Jonathan Boccara",
+        "sched": "https://cppnow2018.sched.com/event/c4c10db8e9e0d93ab867436c8a637221",
+        "room": "Bethe",
+        "title": "Smart Output Iterators",
+        "youtube": "https://youtu.be/ZJA3-h7Ct_Y",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/smart_output_iterators__jonathan_boccara__cppnow_05082018.pdf",
+        "time": "14:30:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Arthur O'Dwyer",
+        "sched": "https://cppnow2018.sched.com/event/ae35e6b500090e00c295aeeef68762c0",
+        "room": "Hudson",
+        "title": "The Best Type Traits that C++ Doesn't Have",
+        "youtube": "https://youtu.be/MWBfmmg8-Yo",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/the_best_type_traits__arthur_o_dwyer__cppnow_05082018.pdf",
+        "time": "09:00:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Tony Van Eerd",
+        "sched": "https://cppnow2018.sched.com/event/5512828f91a02e3dea8076444b98ecd1",
+        "room": "Bethe",
+        "title": "The Continuing Saga of the Lock-free Queue: Part 3 of N",
+        "youtube": "https://youtu.be/mu6XB-WRNxs",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/the_continuing_saga_of_the_lockfree_queue__tony_van_eerd__cppnow_05082018.pdf",
+        "time": "09:00:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "John Lakos",
+        "sched": "https://cppnow2018.sched.com/event/720697ca68bd19f9d13e599783328119",
+        "room": "Flug",
+        "title": "The Current State of Modules in C++",
+        "youtube": "https://youtu.be/EglLjioQ9x0",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Bart Janssens, Keno Fisher",
+        "sched": "https://cppnow2018.sched.com/event/55793ba6320ec53ce7964b827719769c",
+        "room": "Hudson",
+        "title": "The Julia Language and C++: The Perfect Marriage?",
+        "youtube": "https://youtu.be/hvnxY3NjHQ4",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/the_julia_language_and_cpp__bart_janssens__cppnow__05082018.pdf",
+        "time": "14:30:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Jens Weller",
+        "sched": "https://cppnow2018.sched.com/event/213530e50c8f1b02c9df39da7e09a781",
+        "room": "Bethe",
+        "title": "The Problem with \"Cutting Edge C++\"",
+        "youtube": "https://youtu.be/T7RhxjB5sSg",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-10-2018_thursday/the_problem_with_cutting_edge_cpp__jens_weller__cppnow_05102018.pdf",
+        "time": "09:00:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "Eberhard Gr\u00e4ther",
+        "sched": "https://cppnow2018.sched.com/event/86e98e21f8d33ba524655d603da74240",
+        "room": "Hudson",
+        "title": "The Untapped Potential of Software Visualization",
+        "youtube": "https://youtu.be/2UmDvg5xv1U",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/the_untapped_potential_of_software_visualization__eberhard_graether__cppnow_05082018.pdf",
+        "time": "11:50:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Tony Van Eerd",
+        "sched": "https://cppnow2018.sched.com/event/794f4151883e0f0e9e81b04986145865",
+        "room": "Hudson",
+        "title": "Words of Wisdom",
+        "youtube": "https://youtu.be/l2NsHY_ohHI",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-09-2018_wednesday/words_of_wisdom__tony_van_eerd__cppnow_05092018.pdf",
+        "time": "09:00:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Malte Skarupke",
+        "sched": "https://cppnow2018.sched.com/event/64901e84b173ad08c17a6d46e8d8edd9",
+        "room": "Bethe",
+        "title": "You Can Do Better than std::unordered_map: New and Recent Improvements to Hash Table Performance",
+        "youtube": "https://youtu.be/M2fKMP47slQ",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2018-05-09"
+    },
+    {
+        "speakers": "Odin Holmes",
+        "sched": "https://cppnow2018.sched.com/event/d0675746fc9f1da4c02f4d4d48861be8",
+        "room": "Bethe",
+        "title": "boost.tmp: Your DSL for Metaprogramming",
+        "youtube": "https://youtu.be/WRTjLPJTcgA",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2018-05-08"
+    },
+    {
+        "speakers": "Jean-Louis Leroy",
+        "sched": "https://cppnow2018.sched.com/event/53d9940ae01f033378b7e9502126078e",
+        "room": "Hudson",
+        "title": "yomm2: Fast, Orthogonal, Open Methods in a Library",
+        "youtube": "https://youtu.be/rm82LBpyXjM",
+        "slides": "",
+        "time": "09:00:00",
+        "date": "2018-05-10"
+    },
+    {
+        "speakers": "JeanHeyd \"ThePhD\" Meneide",
+        "sched": "https://cppnow2018.sched.com/event/EJjw/compile-fast-run-faster-scale-forever-a-look-into-the-sol2-lua-library",
+        "room": "Hudson",
+        "title": "Compile Fast, Run Faster, Scale Forever: A Look into the sol2 Lua Library",
+        "youtube": "https://youtu.be/0Lwy4_sKeJM",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-10-2018_thursday/compile_fast_run_faster_scale_forever__a_look_into_the_sol2_library__thephd__cppnow_05102018.pdf",
+        "time": "16:30:00",
+        "date": "2018-05-10"
+    }
+]
