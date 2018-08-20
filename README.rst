@@ -352,7 +352,7 @@ Lightning Talks
 .. |thuAM2hudV| replace:: (video)
 .. _thuAM2hudV: https://youtu.be/vGV5u1nxqd8
 .. |thuAM2bet| replace:: From Parsing to sema: Making Sense of Syntax Trees, *Michał Dominiak*
-.. _thuAM2bet: 
+.. _thuAM2bet: 05-10-2018_thursday/from_parsing_to_sema_making_sense_of_syntax_trees__michal_dominiak__cppnow_05102018.pdf
 .. |thuAM2betV| replace:: (video)
 .. _thuAM2betV: https://youtu.be/YiGbMdIMAr4
 
