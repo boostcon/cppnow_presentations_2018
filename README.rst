@@ -498,7 +498,7 @@ Lightning Talks
 .. _lightning19V: https://youtu.be/YBqYHtf9Sw0
 
 .. |lightning20| replace:: C++ Execution Model in Five Minutes, *Bryce Adelstein Lelbach*
-.. _lightning20: 
+.. _lightning20: lightning_talks/cpp_execution_model_in_five_minutes__bryce_adelstein_lelbach__cppnow_05072018.pdf
 .. |lightning20V| replace:: (video)
 .. _lightning20V: https://youtu.be/lrG0C1Ugdz4
 
